@@ -1,0 +1,2501 @@
+customer_id,customer_name,segment,city,province
+1,Customer 0001,Consumer,London,Ontario
+2,Customer 0002,Consumer,Kelowna,British Columbia
+3,Customer 0003,Consumer,Montreal,Quebec
+4,Customer 0004,Consumer,Hamilton,Ontario
+5,Customer 0005,Consumer,Ottawa,Ontario
+6,Customer 0006,Corporate,Calgary,Alberta
+7,Customer 0007,Corporate,Winnipeg,Manitoba
+8,Customer 0008,Consumer,Ottawa,Ontario
+9,Customer 0009,Consumer,Kelowna,British Columbia
+10,Customer 0010,Corporate,Ottawa,Ontario
+11,Customer 0011,Consumer,Saskatoon,Saskatchewan
+12,Customer 0012,Small Business,Halifax,Nova Scotia
+13,Customer 0013,Corporate,Vancouver,British Columbia
+14,Customer 0014,Corporate,Edmonton,Alberta
+15,Customer 0015,Consumer,Quebec City,Quebec
+16,Customer 0016,Consumer,Edmonton,Alberta
+17,Customer 0017,Consumer,Laval,Quebec
+18,Customer 0018,Small Business,Toronto,Ontario
+19,Customer 0019,Consumer,Ottawa,Ontario
+20,Customer 0020,Corporate,Ottawa,Ontario
+21,Customer 0021,Consumer,Laval,Quebec
+22,Customer 0022,Consumer,Montreal,Quebec
+23,Customer 0023,Consumer,Vancouver,British Columbia
+24,Customer 0024,Corporate,London,Ontario
+25,Customer 0025,Small Business,Quebec City,Quebec
+26,Customer 0026,Consumer,Ottawa,Ontario
+27,Customer 0027,Corporate,Ottawa,Ontario
+28,Customer 0028,Consumer,Laval,Quebec
+29,Customer 0029,Consumer,Laval,Quebec
+30,Customer 0030,Consumer,Toronto,Ontario
+31,Customer 0031,Consumer,Ottawa,Ontario
+32,Customer 0032,Consumer,Winnipeg,Manitoba
+33,Customer 0033,Corporate,Calgary,Alberta
+34,Customer 0034,Consumer,Victoria,British Columbia
+35,Customer 0035,Corporate,Toronto,Ontario
+36,Customer 0036,Corporate,Halifax,Nova Scotia
+37,Customer 0037,Consumer,Quebec City,Quebec
+38,Customer 0038,Small Business,Montreal,Quebec
+39,Customer 0039,Consumer,Winnipeg,Manitoba
+40,Customer 0040,Small Business,Toronto,Ontario
+41,Customer 0041,Corporate,Vancouver,British Columbia
+42,Customer 0042,Corporate,Toronto,Ontario
+43,Customer 0043,Consumer,Toronto,Ontario
+44,Customer 0044,Small Business,Vancouver,British Columbia
+45,Customer 0045,Corporate,Toronto,Ontario
+46,Customer 0046,Corporate,Quebec City,Quebec
+47,Customer 0047,Consumer,Quebec City,Quebec
+48,Customer 0048,Consumer,London,Ontario
+49,Customer 0049,Corporate,Victoria,British Columbia
+50,Customer 0050,Consumer,Laval,Quebec
+51,Customer 0051,Consumer,Vancouver,British Columbia
+52,Customer 0052,Consumer,Toronto,Ontario
+53,Customer 0053,Consumer,Montreal,Quebec
+54,Customer 0054,Consumer,Laval,Quebec
+55,Customer 0055,Corporate,Montreal,Quebec
+56,Customer 0056,Consumer,Victoria,British Columbia
+57,Customer 0057,Consumer,Laval,Quebec
+58,Customer 0058,Small Business,Montreal,Quebec
+59,Customer 0059,Corporate,Ottawa,Ontario
+60,Customer 0060,Corporate,Calgary,Alberta
+61,Customer 0061,Corporate,Laval,Quebec
+62,Customer 0062,Consumer,Ottawa,Ontario
+63,Customer 0063,Corporate,Quebec City,Quebec
+64,Customer 0064,Corporate,London,Ontario
+65,Customer 0065,Consumer,Winnipeg,Manitoba
+66,Customer 0066,Consumer,Regina,Saskatchewan
+67,Customer 0067,Consumer,Ottawa,Ontario
+68,Customer 0068,Consumer,Hamilton,Ontario
+69,Customer 0069,Corporate,Victoria,British Columbia
+70,Customer 0070,Small Business,London,Ontario
+71,Customer 0071,Small Business,Montreal,Quebec
+72,Customer 0072,Corporate,Quebec City,Quebec
+73,Customer 0073,Consumer,Edmonton,Alberta
+74,Customer 0074,Consumer,Halifax,Nova Scotia
+75,Customer 0075,Consumer,Winnipeg,Manitoba
+76,Customer 0076,Consumer,Victoria,British Columbia
+77,Customer 0077,Consumer,Ottawa,Ontario
+78,Customer 0078,Corporate,Halifax,Nova Scotia
+79,Customer 0079,Consumer,Toronto,Ontario
+80,Customer 0080,Corporate,Toronto,Ontario
+81,Customer 0081,Corporate,Toronto,Ontario
+82,Customer 0082,Consumer,Kelowna,British Columbia
+83,Customer 0083,Corporate,Quebec City,Quebec
+84,Customer 0084,Corporate,Toronto,Ontario
+85,Customer 0085,Consumer,London,Ontario
+86,Customer 0086,Consumer,Victoria,British Columbia
+87,Customer 0087,Consumer,Montreal,Quebec
+88,Customer 0088,Small Business,Kelowna,British Columbia
+89,Customer 0089,Consumer,Laval,Quebec
+90,Customer 0090,Consumer,Winnipeg,Manitoba
+91,Customer 0091,Consumer,Halifax,Nova Scotia
+92,Customer 0092,Consumer,London,Ontario
+93,Customer 0093,Small Business,Halifax,Nova Scotia
+94,Customer 0094,Consumer,Calgary,Alberta
+95,Customer 0095,Corporate,Kelowna,British Columbia
+96,Customer 0096,Small Business,Kelowna,British Columbia
+97,Customer 0097,Consumer,Quebec City,Quebec
+98,Customer 0098,Consumer,Halifax,Nova Scotia
+99,Customer 0099,Consumer,London,Ontario
+100,Customer 0100,Consumer,Laval,Quebec
+101,Customer 0101,Consumer,Calgary,Alberta
+102,Customer 0102,Corporate,London,Ontario
+103,Customer 0103,Consumer,Victoria,British Columbia
+104,Customer 0104,Small Business,Quebec City,Quebec
+105,Customer 0105,Corporate,Edmonton,Alberta
+106,Customer 0106,Corporate,London,Ontario
+107,Customer 0107,Consumer,Vancouver,British Columbia
+108,Customer 0108,Corporate,Calgary,Alberta
+109,Customer 0109,Consumer,Victoria,British Columbia
+110,Customer 0110,Consumer,Toronto,Ontario
+111,Customer 0111,Consumer,Kelowna,British Columbia
+112,Customer 0112,Consumer,Toronto,Ontario
+113,Customer 0113,Small Business,Victoria,British Columbia
+114,Customer 0114,Consumer,London,Ontario
+115,Customer 0115,Consumer,London,Ontario
+116,Customer 0116,Consumer,Ottawa,Ontario
+117,Customer 0117,Consumer,Toronto,Ontario
+118,Customer 0118,Consumer,Montreal,Quebec
+119,Customer 0119,Consumer,London,Ontario
+120,Customer 0120,Corporate,Montreal,Quebec
+121,Customer 0121,Consumer,Vancouver,British Columbia
+122,Customer 0122,Consumer,Winnipeg,Manitoba
+123,Customer 0123,Consumer,Hamilton,Ontario
+124,Customer 0124,Consumer,Ottawa,Ontario
+125,Customer 0125,Consumer,Toronto,Ontario
+126,Customer 0126,Consumer,Hamilton,Ontario
+127,Customer 0127,Consumer,Victoria,British Columbia
+128,Customer 0128,Consumer,Calgary,Alberta
+129,Customer 0129,Consumer,Quebec City,Quebec
+130,Customer 0130,Consumer,Laval,Quebec
+131,Customer 0131,Corporate,Halifax,Nova Scotia
+132,Customer 0132,Small Business,Victoria,British Columbia
+133,Customer 0133,Consumer,Calgary,Alberta
+134,Customer 0134,Consumer,Winnipeg,Manitoba
+135,Customer 0135,Consumer,London,Ontario
+136,Customer 0136,Consumer,Vancouver,British Columbia
+137,Customer 0137,Small Business,Victoria,British Columbia
+138,Customer 0138,Consumer,Edmonton,Alberta
+139,Customer 0139,Consumer,Hamilton,Ontario
+140,Customer 0140,Small Business,Kelowna,British Columbia
+141,Customer 0141,Corporate,Kelowna,British Columbia
+142,Customer 0142,Corporate,Montreal,Quebec
+143,Customer 0143,Consumer,Ottawa,Ontario
+144,Customer 0144,Consumer,Toronto,Ontario
+145,Customer 0145,Corporate,Saskatoon,Saskatchewan
+146,Customer 0146,Consumer,Ottawa,Ontario
+147,Customer 0147,Consumer,Toronto,Ontario
+148,Customer 0148,Consumer,Ottawa,Ontario
+149,Customer 0149,Consumer,London,Ontario
+150,Customer 0150,Corporate,London,Ontario
+151,Customer 0151,Corporate,Halifax,Nova Scotia
+152,Customer 0152,Consumer,Hamilton,Ontario
+153,Customer 0153,Corporate,Laval,Quebec
+154,Customer 0154,Consumer,Ottawa,Ontario
+155,Customer 0155,Consumer,Victoria,British Columbia
+156,Customer 0156,Corporate,Hamilton,Ontario
+157,Customer 0157,Consumer,Edmonton,Alberta
+158,Customer 0158,Corporate,Quebec City,Quebec
+159,Customer 0159,Small Business,Ottawa,Ontario
+160,Customer 0160,Corporate,Edmonton,Alberta
+161,Customer 0161,Corporate,Quebec City,Quebec
+162,Customer 0162,Consumer,Quebec City,Quebec
+163,Customer 0163,Consumer,Ottawa,Ontario
+164,Customer 0164,Consumer,Calgary,Alberta
+165,Customer 0165,Corporate,Toronto,Ontario
+166,Customer 0166,Consumer,Toronto,Ontario
+167,Customer 0167,Consumer,Saskatoon,Saskatchewan
+168,Customer 0168,Small Business,Ottawa,Ontario
+169,Customer 0169,Consumer,Toronto,Ontario
+170,Customer 0170,Consumer,Laval,Quebec
+171,Customer 0171,Consumer,Toronto,Ontario
+172,Customer 0172,Corporate,London,Ontario
+173,Customer 0173,Consumer,Laval,Quebec
+174,Customer 0174,Corporate,Halifax,Nova Scotia
+175,Customer 0175,Consumer,Halifax,Nova Scotia
+176,Customer 0176,Small Business,London,Ontario
+177,Customer 0177,Consumer,Calgary,Alberta
+178,Customer 0178,Consumer,Toronto,Ontario
+179,Customer 0179,Corporate,Edmonton,Alberta
+180,Customer 0180,Small Business,London,Ontario
+181,Customer 0181,Consumer,Kelowna,British Columbia
+182,Customer 0182,Consumer,Kelowna,British Columbia
+183,Customer 0183,Consumer,Edmonton,Alberta
+184,Customer 0184,Small Business,Saskatoon,Saskatchewan
+185,Customer 0185,Consumer,Hamilton,Ontario
+186,Customer 0186,Corporate,Vancouver,British Columbia
+187,Customer 0187,Small Business,Kelowna,British Columbia
+188,Customer 0188,Corporate,London,Ontario
+189,Customer 0189,Corporate,Vancouver,British Columbia
+190,Customer 0190,Consumer,Hamilton,Ontario
+191,Customer 0191,Consumer,Ottawa,Ontario
+192,Customer 0192,Consumer,Quebec City,Quebec
+193,Customer 0193,Consumer,Montreal,Quebec
+194,Customer 0194,Small Business,Montreal,Quebec
+195,Customer 0195,Corporate,Vancouver,British Columbia
+196,Customer 0196,Corporate,Montreal,Quebec
+197,Customer 0197,Corporate,Winnipeg,Manitoba
+198,Customer 0198,Corporate,Hamilton,Ontario
+199,Customer 0199,Consumer,Ottawa,Ontario
+200,Customer 0200,Consumer,Ottawa,Ontario
+201,Customer 0201,Small Business,Edmonton,Alberta
+202,Customer 0202,Consumer,Kelowna,British Columbia
+203,Customer 0203,Consumer,Toronto,Ontario
+204,Customer 0204,Consumer,Edmonton,Alberta
+205,Customer 0205,Consumer,Calgary,Alberta
+206,Customer 0206,Consumer,Calgary,Alberta
+207,Customer 0207,Small Business,London,Ontario
+208,Customer 0208,Consumer,Hamilton,Ontario
+209,Customer 0209,Consumer,Winnipeg,Manitoba
+210,Customer 0210,Consumer,Winnipeg,Manitoba
+211,Customer 0211,Consumer,London,Ontario
+212,Customer 0212,Consumer,Laval,Quebec
+213,Customer 0213,Small Business,London,Ontario
+214,Customer 0214,Consumer,Laval,Quebec
+215,Customer 0215,Small Business,Hamilton,Ontario
+216,Customer 0216,Small Business,London,Ontario
+217,Customer 0217,Small Business,Ottawa,Ontario
+218,Customer 0218,Consumer,Halifax,Nova Scotia
+219,Customer 0219,Consumer,Montreal,Quebec
+220,Customer 0220,Consumer,Toronto,Ontario
+221,Customer 0221,Corporate,Quebec City,Quebec
+222,Customer 0222,Consumer,Quebec City,Quebec
+223,Customer 0223,Small Business,Victoria,British Columbia
+224,Customer 0224,Consumer,Montreal,Quebec
+225,Customer 0225,Consumer,Montreal,Quebec
+226,Customer 0226,Corporate,London,Ontario
+227,Customer 0227,Corporate,Laval,Quebec
+228,Customer 0228,Consumer,Saskatoon,Saskatchewan
+229,Customer 0229,Consumer,Montreal,Quebec
+230,Customer 0230,Consumer,Winnipeg,Manitoba
+231,Customer 0231,Consumer,Toronto,Ontario
+232,Customer 0232,Consumer,Toronto,Ontario
+233,Customer 0233,Small Business,Winnipeg,Manitoba
+234,Customer 0234,Consumer,Quebec City,Quebec
+235,Customer 0235,Small Business,Laval,Quebec
+236,Customer 0236,Consumer,Ottawa,Ontario
+237,Customer 0237,Consumer,London,Ontario
+238,Customer 0238,Consumer,Victoria,British Columbia
+239,Customer 0239,Consumer,Hamilton,Ontario
+240,Customer 0240,Corporate,Laval,Quebec
+241,Customer 0241,Consumer,Edmonton,Alberta
+242,Customer 0242,Small Business,Halifax,Nova Scotia
+243,Customer 0243,Corporate,Regina,Saskatchewan
+244,Customer 0244,Consumer,Quebec City,Quebec
+245,Customer 0245,Consumer,Toronto,Ontario
+246,Customer 0246,Consumer,Ottawa,Ontario
+247,Customer 0247,Corporate,Quebec City,Quebec
+248,Customer 0248,Consumer,Ottawa,Ontario
+249,Customer 0249,Corporate,Ottawa,Ontario
+250,Customer 0250,Consumer,Toronto,Ontario
+251,Customer 0251,Small Business,Regina,Saskatchewan
+252,Customer 0252,Small Business,Toronto,Ontario
+253,Customer 0253,Corporate,London,Ontario
+254,Customer 0254,Consumer,Halifax,Nova Scotia
+255,Customer 0255,Consumer,Vancouver,British Columbia
+256,Customer 0256,Consumer,Victoria,British Columbia
+257,Customer 0257,Consumer,London,Ontario
+258,Customer 0258,Consumer,Halifax,Nova Scotia
+259,Customer 0259,Consumer,Regina,Saskatchewan
+260,Customer 0260,Consumer,Montreal,Quebec
+261,Customer 0261,Small Business,Regina,Saskatchewan
+262,Customer 0262,Small Business,Quebec City,Quebec
+263,Customer 0263,Corporate,Quebec City,Quebec
+264,Customer 0264,Consumer,Edmonton,Alberta
+265,Customer 0265,Consumer,Kelowna,British Columbia
+266,Customer 0266,Small Business,London,Ontario
+267,Customer 0267,Consumer,Quebec City,Quebec
+268,Customer 0268,Consumer,Toronto,Ontario
+269,Customer 0269,Consumer,Winnipeg,Manitoba
+270,Customer 0270,Consumer,Montreal,Quebec
+271,Customer 0271,Small Business,Hamilton,Ontario
+272,Customer 0272,Small Business,Halifax,Nova Scotia
+273,Customer 0273,Consumer,Saskatoon,Saskatchewan
+274,Customer 0274,Corporate,Kelowna,British Columbia
+275,Customer 0275,Consumer,Quebec City,Quebec
+276,Customer 0276,Corporate,Montreal,Quebec
+277,Customer 0277,Small Business,Hamilton,Ontario
+278,Customer 0278,Corporate,Ottawa,Ontario
+279,Customer 0279,Consumer,Hamilton,Ontario
+280,Customer 0280,Consumer,Laval,Quebec
+281,Customer 0281,Small Business,Edmonton,Alberta
+282,Customer 0282,Small Business,London,Ontario
+283,Customer 0283,Corporate,London,Ontario
+284,Customer 0284,Small Business,Kelowna,British Columbia
+285,Customer 0285,Consumer,Winnipeg,Manitoba
+286,Customer 0286,Consumer,Winnipeg,Manitoba
+287,Customer 0287,Small Business,Edmonton,Alberta
+288,Customer 0288,Consumer,Saskatoon,Saskatchewan
+289,Customer 0289,Consumer,Laval,Quebec
+290,Customer 0290,Consumer,Calgary,Alberta
+291,Customer 0291,Consumer,Quebec City,Quebec
+292,Customer 0292,Consumer,London,Ontario
+293,Customer 0293,Corporate,Halifax,Nova Scotia
+294,Customer 0294,Corporate,Quebec City,Quebec
+295,Customer 0295,Consumer,Calgary,Alberta
+296,Customer 0296,Consumer,Laval,Quebec
+297,Customer 0297,Small Business,London,Ontario
+298,Customer 0298,Small Business,Ottawa,Ontario
+299,Customer 0299,Consumer,Laval,Quebec
+300,Customer 0300,Small Business,Victoria,British Columbia
+301,Customer 0301,Corporate,Edmonton,Alberta
+302,Customer 0302,Consumer,Hamilton,Ontario
+303,Customer 0303,Consumer,Hamilton,Ontario
+304,Customer 0304,Consumer,Laval,Quebec
+305,Customer 0305,Consumer,Toronto,Ontario
+306,Customer 0306,Consumer,Ottawa,Ontario
+307,Customer 0307,Corporate,Montreal,Quebec
+308,Customer 0308,Corporate,Laval,Quebec
+309,Customer 0309,Small Business,Montreal,Quebec
+310,Customer 0310,Small Business,Ottawa,Ontario
+311,Customer 0311,Consumer,Hamilton,Ontario
+312,Customer 0312,Small Business,Calgary,Alberta
+313,Customer 0313,Consumer,Montreal,Quebec
+314,Customer 0314,Consumer,Winnipeg,Manitoba
+315,Customer 0315,Consumer,Calgary,Alberta
+316,Customer 0316,Consumer,Ottawa,Ontario
+317,Customer 0317,Small Business,Montreal,Quebec
+318,Customer 0318,Consumer,Quebec City,Quebec
+319,Customer 0319,Consumer,Ottawa,Ontario
+320,Customer 0320,Consumer,London,Ontario
+321,Customer 0321,Small Business,Calgary,Alberta
+322,Customer 0322,Consumer,Edmonton,Alberta
+323,Customer 0323,Small Business,Quebec City,Quebec
+324,Customer 0324,Corporate,Victoria,British Columbia
+325,Customer 0325,Consumer,Montreal,Quebec
+326,Customer 0326,Corporate,Edmonton,Alberta
+327,Customer 0327,Consumer,Toronto,Ontario
+328,Customer 0328,Corporate,Montreal,Quebec
+329,Customer 0329,Consumer,Winnipeg,Manitoba
+330,Customer 0330,Consumer,Calgary,Alberta
+331,Customer 0331,Consumer,Hamilton,Ontario
+332,Customer 0332,Consumer,Winnipeg,Manitoba
+333,Customer 0333,Small Business,Quebec City,Quebec
+334,Customer 0334,Corporate,Vancouver,British Columbia
+335,Customer 0335,Corporate,Kelowna,British Columbia
+336,Customer 0336,Consumer,Montreal,Quebec
+337,Customer 0337,Corporate,Calgary,Alberta
+338,Customer 0338,Consumer,Laval,Quebec
+339,Customer 0339,Consumer,Regina,Saskatchewan
+340,Customer 0340,Small Business,Halifax,Nova Scotia
+341,Customer 0341,Corporate,Winnipeg,Manitoba
+342,Customer 0342,Consumer,Winnipeg,Manitoba
+343,Customer 0343,Corporate,Ottawa,Ontario
+344,Customer 0344,Consumer,Vancouver,British Columbia
+345,Customer 0345,Corporate,Calgary,Alberta
+346,Customer 0346,Consumer,Laval,Quebec
+347,Customer 0347,Small Business,Montreal,Quebec
+348,Customer 0348,Small Business,London,Ontario
+349,Customer 0349,Corporate,Ottawa,Ontario
+350,Customer 0350,Consumer,Edmonton,Alberta
+351,Customer 0351,Consumer,London,Ontario
+352,Customer 0352,Consumer,Vancouver,British Columbia
+353,Customer 0353,Consumer,London,Ontario
+354,Customer 0354,Consumer,Montreal,Quebec
+355,Customer 0355,Corporate,Hamilton,Ontario
+356,Customer 0356,Consumer,Kelowna,British Columbia
+357,Customer 0357,Consumer,Toronto,Ontario
+358,Customer 0358,Small Business,Montreal,Quebec
+359,Customer 0359,Consumer,London,Ontario
+360,Customer 0360,Small Business,Quebec City,Quebec
+361,Customer 0361,Consumer,Kelowna,British Columbia
+362,Customer 0362,Consumer,Hamilton,Ontario
+363,Customer 0363,Consumer,Calgary,Alberta
+364,Customer 0364,Corporate,Calgary,Alberta
+365,Customer 0365,Small Business,Halifax,Nova Scotia
+366,Customer 0366,Consumer,Laval,Quebec
+367,Customer 0367,Corporate,Winnipeg,Manitoba
+368,Customer 0368,Consumer,Toronto,Ontario
+369,Customer 0369,Consumer,Saskatoon,Saskatchewan
+370,Customer 0370,Consumer,Hamilton,Ontario
+371,Customer 0371,Consumer,Toronto,Ontario
+372,Customer 0372,Consumer,Hamilton,Ontario
+373,Customer 0373,Consumer,Calgary,Alberta
+374,Customer 0374,Corporate,Laval,Quebec
+375,Customer 0375,Consumer,Regina,Saskatchewan
+376,Customer 0376,Consumer,Hamilton,Ontario
+377,Customer 0377,Consumer,Winnipeg,Manitoba
+378,Customer 0378,Small Business,Hamilton,Ontario
+379,Customer 0379,Consumer,London,Ontario
+380,Customer 0380,Consumer,Kelowna,British Columbia
+381,Customer 0381,Consumer,Ottawa,Ontario
+382,Customer 0382,Corporate,Quebec City,Quebec
+383,Customer 0383,Consumer,Laval,Quebec
+384,Customer 0384,Corporate,Ottawa,Ontario
+385,Customer 0385,Corporate,Montreal,Quebec
+386,Customer 0386,Consumer,London,Ontario
+387,Customer 0387,Small Business,London,Ontario
+388,Customer 0388,Small Business,Halifax,Nova Scotia
+389,Customer 0389,Consumer,Quebec City,Quebec
+390,Customer 0390,Consumer,London,Ontario
+391,Customer 0391,Consumer,Edmonton,Alberta
+392,Customer 0392,Consumer,Hamilton,Ontario
+393,Customer 0393,Small Business,Montreal,Quebec
+394,Customer 0394,Small Business,Toronto,Ontario
+395,Customer 0395,Consumer,Kelowna,British Columbia
+396,Customer 0396,Corporate,Victoria,British Columbia
+397,Customer 0397,Consumer,London,Ontario
+398,Customer 0398,Corporate,Edmonton,Alberta
+399,Customer 0399,Consumer,Victoria,British Columbia
+400,Customer 0400,Consumer,Vancouver,British Columbia
+401,Customer 0401,Small Business,Ottawa,Ontario
+402,Customer 0402,Consumer,London,Ontario
+403,Customer 0403,Small Business,Quebec City,Quebec
+404,Customer 0404,Consumer,London,Ontario
+405,Customer 0405,Small Business,London,Ontario
+406,Customer 0406,Consumer,Victoria,British Columbia
+407,Customer 0407,Consumer,Hamilton,Ontario
+408,Customer 0408,Consumer,Kelowna,British Columbia
+409,Customer 0409,Corporate,London,Ontario
+410,Customer 0410,Consumer,Calgary,Alberta
+411,Customer 0411,Consumer,Ottawa,Ontario
+412,Customer 0412,Corporate,Winnipeg,Manitoba
+413,Customer 0413,Corporate,Winnipeg,Manitoba
+414,Customer 0414,Consumer,Kelowna,British Columbia
+415,Customer 0415,Corporate,Quebec City,Quebec
+416,Customer 0416,Consumer,Toronto,Ontario
+417,Customer 0417,Small Business,Edmonton,Alberta
+418,Customer 0418,Small Business,Montreal,Quebec
+419,Customer 0419,Consumer,Hamilton,Ontario
+420,Customer 0420,Corporate,Montreal,Quebec
+421,Customer 0421,Consumer,Ottawa,Ontario
+422,Customer 0422,Consumer,Quebec City,Quebec
+423,Customer 0423,Corporate,Victoria,British Columbia
+424,Customer 0424,Corporate,Edmonton,Alberta
+425,Customer 0425,Consumer,Ottawa,Ontario
+426,Customer 0426,Small Business,Toronto,Ontario
+427,Customer 0427,Small Business,Hamilton,Ontario
+428,Customer 0428,Consumer,Toronto,Ontario
+429,Customer 0429,Consumer,Halifax,Nova Scotia
+430,Customer 0430,Consumer,Winnipeg,Manitoba
+431,Customer 0431,Corporate,Vancouver,British Columbia
+432,Customer 0432,Consumer,Hamilton,Ontario
+433,Customer 0433,Small Business,London,Ontario
+434,Customer 0434,Consumer,Halifax,Nova Scotia
+435,Customer 0435,Consumer,Ottawa,Ontario
+436,Customer 0436,Small Business,Ottawa,Ontario
+437,Customer 0437,Small Business,Calgary,Alberta
+438,Customer 0438,Consumer,London,Ontario
+439,Customer 0439,Consumer,Laval,Quebec
+440,Customer 0440,Corporate,Laval,Quebec
+441,Customer 0441,Corporate,Victoria,British Columbia
+442,Customer 0442,Small Business,Laval,Quebec
+443,Customer 0443,Corporate,Calgary,Alberta
+444,Customer 0444,Consumer,Quebec City,Quebec
+445,Customer 0445,Consumer,Toronto,Ontario
+446,Customer 0446,Consumer,London,Ontario
+447,Customer 0447,Consumer,Edmonton,Alberta
+448,Customer 0448,Consumer,Hamilton,Ontario
+449,Customer 0449,Corporate,Vancouver,British Columbia
+450,Customer 0450,Small Business,Victoria,British Columbia
+451,Customer 0451,Small Business,Regina,Saskatchewan
+452,Customer 0452,Consumer,Toronto,Ontario
+453,Customer 0453,Corporate,Hamilton,Ontario
+454,Customer 0454,Consumer,Victoria,British Columbia
+455,Customer 0455,Small Business,Ottawa,Ontario
+456,Customer 0456,Consumer,Ottawa,Ontario
+457,Customer 0457,Consumer,Winnipeg,Manitoba
+458,Customer 0458,Consumer,Victoria,British Columbia
+459,Customer 0459,Consumer,London,Ontario
+460,Customer 0460,Small Business,Ottawa,Ontario
+461,Customer 0461,Small Business,Calgary,Alberta
+462,Customer 0462,Consumer,Montreal,Quebec
+463,Customer 0463,Consumer,Halifax,Nova Scotia
+464,Customer 0464,Corporate,Laval,Quebec
+465,Customer 0465,Corporate,Ottawa,Ontario
+466,Customer 0466,Small Business,Ottawa,Ontario
+467,Customer 0467,Corporate,Laval,Quebec
+468,Customer 0468,Small Business,Kelowna,British Columbia
+469,Customer 0469,Corporate,London,Ontario
+470,Customer 0470,Consumer,Laval,Quebec
+471,Customer 0471,Small Business,Montreal,Quebec
+472,Customer 0472,Consumer,Victoria,British Columbia
+473,Customer 0473,Consumer,London,Ontario
+474,Customer 0474,Corporate,Winnipeg,Manitoba
+475,Customer 0475,Corporate,London,Ontario
+476,Customer 0476,Corporate,Calgary,Alberta
+477,Customer 0477,Corporate,Calgary,Alberta
+478,Customer 0478,Consumer,Winnipeg,Manitoba
+479,Customer 0479,Small Business,Hamilton,Ontario
+480,Customer 0480,Corporate,Calgary,Alberta
+481,Customer 0481,Consumer,Ottawa,Ontario
+482,Customer 0482,Corporate,Laval,Quebec
+483,Customer 0483,Consumer,Toronto,Ontario
+484,Customer 0484,Consumer,Montreal,Quebec
+485,Customer 0485,Consumer,London,Ontario
+486,Customer 0486,Consumer,Halifax,Nova Scotia
+487,Customer 0487,Consumer,Hamilton,Ontario
+488,Customer 0488,Consumer,Quebec City,Quebec
+489,Customer 0489,Corporate,Edmonton,Alberta
+490,Customer 0490,Consumer,Hamilton,Ontario
+491,Customer 0491,Consumer,Montreal,Quebec
+492,Customer 0492,Consumer,Laval,Quebec
+493,Customer 0493,Corporate,Edmonton,Alberta
+494,Customer 0494,Small Business,Victoria,British Columbia
+495,Customer 0495,Consumer,Edmonton,Alberta
+496,Customer 0496,Small Business,Calgary,Alberta
+497,Customer 0497,Corporate,Quebec City,Quebec
+498,Customer 0498,Small Business,London,Ontario
+499,Customer 0499,Consumer,Hamilton,Ontario
+500,Customer 0500,Small Business,Hamilton,Ontario
+501,Customer 0501,Consumer,Winnipeg,Manitoba
+502,Customer 0502,Consumer,Ottawa,Ontario
+503,Customer 0503,Consumer,Winnipeg,Manitoba
+504,Customer 0504,Consumer,Toronto,Ontario
+505,Customer 0505,Corporate,Ottawa,Ontario
+506,Customer 0506,Consumer,Toronto,Ontario
+507,Customer 0507,Small Business,Laval,Quebec
+508,Customer 0508,Consumer,London,Ontario
+509,Customer 0509,Consumer,Laval,Quebec
+510,Customer 0510,Consumer,Edmonton,Alberta
+511,Customer 0511,Consumer,Laval,Quebec
+512,Customer 0512,Consumer,Quebec City,Quebec
+513,Customer 0513,Consumer,Saskatoon,Saskatchewan
+514,Customer 0514,Consumer,Hamilton,Ontario
+515,Customer 0515,Consumer,Montreal,Quebec
+516,Customer 0516,Consumer,Regina,Saskatchewan
+517,Customer 0517,Consumer,Quebec City,Quebec
+518,Customer 0518,Corporate,Quebec City,Quebec
+519,Customer 0519,Corporate,Laval,Quebec
+520,Customer 0520,Consumer,Toronto,Ontario
+521,Customer 0521,Consumer,Kelowna,British Columbia
+522,Customer 0522,Consumer,Halifax,Nova Scotia
+523,Customer 0523,Consumer,Halifax,Nova Scotia
+524,Customer 0524,Small Business,Laval,Quebec
+525,Customer 0525,Consumer,Toronto,Ontario
+526,Customer 0526,Small Business,Kelowna,British Columbia
+527,Customer 0527,Consumer,Halifax,Nova Scotia
+528,Customer 0528,Small Business,Regina,Saskatchewan
+529,Customer 0529,Small Business,Hamilton,Ontario
+530,Customer 0530,Corporate,Halifax,Nova Scotia
+531,Customer 0531,Small Business,Victoria,British Columbia
+532,Customer 0532,Small Business,Winnipeg,Manitoba
+533,Customer 0533,Consumer,London,Ontario
+534,Customer 0534,Consumer,Saskatoon,Saskatchewan
+535,Customer 0535,Small Business,Edmonton,Alberta
+536,Customer 0536,Corporate,Hamilton,Ontario
+537,Customer 0537,Small Business,Laval,Quebec
+538,Customer 0538,Consumer,Ottawa,Ontario
+539,Customer 0539,Corporate,Vancouver,British Columbia
+540,Customer 0540,Corporate,Laval,Quebec
+541,Customer 0541,Corporate,Quebec City,Quebec
+542,Customer 0542,Small Business,Edmonton,Alberta
+543,Customer 0543,Small Business,Calgary,Alberta
+544,Customer 0544,Small Business,London,Ontario
+545,Customer 0545,Consumer,Edmonton,Alberta
+546,Customer 0546,Consumer,Laval,Quebec
+547,Customer 0547,Consumer,Ottawa,Ontario
+548,Customer 0548,Consumer,London,Ontario
+549,Customer 0549,Corporate,Montreal,Quebec
+550,Customer 0550,Consumer,Calgary,Alberta
+551,Customer 0551,Consumer,Winnipeg,Manitoba
+552,Customer 0552,Small Business,Ottawa,Ontario
+553,Customer 0553,Consumer,Quebec City,Quebec
+554,Customer 0554,Small Business,Calgary,Alberta
+555,Customer 0555,Corporate,Victoria,British Columbia
+556,Customer 0556,Consumer,Edmonton,Alberta
+557,Customer 0557,Consumer,Laval,Quebec
+558,Customer 0558,Corporate,Toronto,Ontario
+559,Customer 0559,Consumer,Laval,Quebec
+560,Customer 0560,Small Business,Montreal,Quebec
+561,Customer 0561,Small Business,Winnipeg,Manitoba
+562,Customer 0562,Consumer,Ottawa,Ontario
+563,Customer 0563,Corporate,Ottawa,Ontario
+564,Customer 0564,Consumer,Edmonton,Alberta
+565,Customer 0565,Consumer,Quebec City,Quebec
+566,Customer 0566,Corporate,Quebec City,Quebec
+567,Customer 0567,Consumer,Regina,Saskatchewan
+568,Customer 0568,Consumer,Kelowna,British Columbia
+569,Customer 0569,Small Business,Victoria,British Columbia
+570,Customer 0570,Consumer,Halifax,Nova Scotia
+571,Customer 0571,Consumer,Victoria,British Columbia
+572,Customer 0572,Consumer,Halifax,Nova Scotia
+573,Customer 0573,Consumer,Kelowna,British Columbia
+574,Customer 0574,Consumer,Quebec City,Quebec
+575,Customer 0575,Small Business,Toronto,Ontario
+576,Customer 0576,Consumer,Ottawa,Ontario
+577,Customer 0577,Consumer,Quebec City,Quebec
+578,Customer 0578,Consumer,Ottawa,Ontario
+579,Customer 0579,Consumer,Hamilton,Ontario
+580,Customer 0580,Consumer,Victoria,British Columbia
+581,Customer 0581,Consumer,Vancouver,British Columbia
+582,Customer 0582,Corporate,Hamilton,Ontario
+583,Customer 0583,Small Business,London,Ontario
+584,Customer 0584,Consumer,Victoria,British Columbia
+585,Customer 0585,Consumer,Montreal,Quebec
+586,Customer 0586,Consumer,Quebec City,Quebec
+587,Customer 0587,Corporate,London,Ontario
+588,Customer 0588,Small Business,Winnipeg,Manitoba
+589,Customer 0589,Consumer,Toronto,Ontario
+590,Customer 0590,Corporate,Ottawa,Ontario
+591,Customer 0591,Small Business,Laval,Quebec
+592,Customer 0592,Corporate,Montreal,Quebec
+593,Customer 0593,Consumer,Regina,Saskatchewan
+594,Customer 0594,Consumer,Hamilton,Ontario
+595,Customer 0595,Consumer,Hamilton,Ontario
+596,Customer 0596,Consumer,London,Ontario
+597,Customer 0597,Consumer,Edmonton,Alberta
+598,Customer 0598,Consumer,Laval,Quebec
+599,Customer 0599,Consumer,Halifax,Nova Scotia
+600,Customer 0600,Consumer,Ottawa,Ontario
+601,Customer 0601,Corporate,Quebec City,Quebec
+602,Customer 0602,Small Business,Edmonton,Alberta
+603,Customer 0603,Small Business,Quebec City,Quebec
+604,Customer 0604,Consumer,Montreal,Quebec
+605,Customer 0605,Small Business,Calgary,Alberta
+606,Customer 0606,Consumer,Laval,Quebec
+607,Customer 0607,Consumer,Winnipeg,Manitoba
+608,Customer 0608,Consumer,Toronto,Ontario
+609,Customer 0609,Consumer,Laval,Quebec
+610,Customer 0610,Consumer,Victoria,British Columbia
+611,Customer 0611,Small Business,Winnipeg,Manitoba
+612,Customer 0612,Corporate,London,Ontario
+613,Customer 0613,Small Business,Calgary,Alberta
+614,Customer 0614,Corporate,Victoria,British Columbia
+615,Customer 0615,Small Business,Winnipeg,Manitoba
+616,Customer 0616,Consumer,Vancouver,British Columbia
+617,Customer 0617,Corporate,Montreal,Quebec
+618,Customer 0618,Small Business,Edmonton,Alberta
+619,Customer 0619,Small Business,London,Ontario
+620,Customer 0620,Consumer,Hamilton,Ontario
+621,Customer 0621,Consumer,Calgary,Alberta
+622,Customer 0622,Corporate,Calgary,Alberta
+623,Customer 0623,Consumer,Edmonton,Alberta
+624,Customer 0624,Consumer,Montreal,Quebec
+625,Customer 0625,Small Business,Victoria,British Columbia
+626,Customer 0626,Consumer,Kelowna,British Columbia
+627,Customer 0627,Consumer,Toronto,Ontario
+628,Customer 0628,Corporate,Calgary,Alberta
+629,Customer 0629,Small Business,Saskatoon,Saskatchewan
+630,Customer 0630,Consumer,Hamilton,Ontario
+631,Customer 0631,Corporate,Toronto,Ontario
+632,Customer 0632,Consumer,Montreal,Quebec
+633,Customer 0633,Corporate,Winnipeg,Manitoba
+634,Customer 0634,Consumer,Victoria,British Columbia
+635,Customer 0635,Consumer,Saskatoon,Saskatchewan
+636,Customer 0636,Consumer,Halifax,Nova Scotia
+637,Customer 0637,Consumer,Vancouver,British Columbia
+638,Customer 0638,Consumer,Kelowna,British Columbia
+639,Customer 0639,Consumer,Ottawa,Ontario
+640,Customer 0640,Corporate,London,Ontario
+641,Customer 0641,Corporate,Calgary,Alberta
+642,Customer 0642,Consumer,Laval,Quebec
+643,Customer 0643,Corporate,London,Ontario
+644,Customer 0644,Consumer,Toronto,Ontario
+645,Customer 0645,Corporate,London,Ontario
+646,Customer 0646,Corporate,Quebec City,Quebec
+647,Customer 0647,Consumer,Halifax,Nova Scotia
+648,Customer 0648,Corporate,Quebec City,Quebec
+649,Customer 0649,Consumer,Edmonton,Alberta
+650,Customer 0650,Small Business,Hamilton,Ontario
+651,Customer 0651,Small Business,Edmonton,Alberta
+652,Customer 0652,Consumer,Halifax,Nova Scotia
+653,Customer 0653,Corporate,Laval,Quebec
+654,Customer 0654,Consumer,Montreal,Quebec
+655,Customer 0655,Corporate,Winnipeg,Manitoba
+656,Customer 0656,Small Business,London,Ontario
+657,Customer 0657,Corporate,Halifax,Nova Scotia
+658,Customer 0658,Consumer,Halifax,Nova Scotia
+659,Customer 0659,Consumer,Halifax,Nova Scotia
+660,Customer 0660,Small Business,Winnipeg,Manitoba
+661,Customer 0661,Consumer,Montreal,Quebec
+662,Customer 0662,Consumer,Kelowna,British Columbia
+663,Customer 0663,Consumer,Laval,Quebec
+664,Customer 0664,Corporate,Hamilton,Ontario
+665,Customer 0665,Consumer,Saskatoon,Saskatchewan
+666,Customer 0666,Consumer,London,Ontario
+667,Customer 0667,Corporate,Ottawa,Ontario
+668,Customer 0668,Consumer,Halifax,Nova Scotia
+669,Customer 0669,Consumer,Halifax,Nova Scotia
+670,Customer 0670,Corporate,Hamilton,Ontario
+671,Customer 0671,Consumer,Regina,Saskatchewan
+672,Customer 0672,Consumer,Calgary,Alberta
+673,Customer 0673,Corporate,Edmonton,Alberta
+674,Customer 0674,Consumer,Laval,Quebec
+675,Customer 0675,Consumer,Quebec City,Quebec
+676,Customer 0676,Small Business,Hamilton,Ontario
+677,Customer 0677,Corporate,Hamilton,Ontario
+678,Customer 0678,Consumer,London,Ontario
+679,Customer 0679,Consumer,Toronto,Ontario
+680,Customer 0680,Corporate,Hamilton,Ontario
+681,Customer 0681,Corporate,Hamilton,Ontario
+682,Customer 0682,Consumer,Quebec City,Quebec
+683,Customer 0683,Consumer,Calgary,Alberta
+684,Customer 0684,Consumer,Montreal,Quebec
+685,Customer 0685,Small Business,Quebec City,Quebec
+686,Customer 0686,Corporate,Edmonton,Alberta
+687,Customer 0687,Small Business,Calgary,Alberta
+688,Customer 0688,Corporate,Montreal,Quebec
+689,Customer 0689,Small Business,Kelowna,British Columbia
+690,Customer 0690,Small Business,Halifax,Nova Scotia
+691,Customer 0691,Corporate,London,Ontario
+692,Customer 0692,Consumer,Victoria,British Columbia
+693,Customer 0693,Consumer,Edmonton,Alberta
+694,Customer 0694,Corporate,Montreal,Quebec
+695,Customer 0695,Small Business,Edmonton,Alberta
+696,Customer 0696,Consumer,Calgary,Alberta
+697,Customer 0697,Corporate,Calgary,Alberta
+698,Customer 0698,Consumer,Montreal,Quebec
+699,Customer 0699,Corporate,Victoria,British Columbia
+700,Customer 0700,Consumer,Vancouver,British Columbia
+701,Customer 0701,Consumer,Quebec City,Quebec
+702,Customer 0702,Small Business,Ottawa,Ontario
+703,Customer 0703,Corporate,Halifax,Nova Scotia
+704,Customer 0704,Corporate,Montreal,Quebec
+705,Customer 0705,Consumer,Ottawa,Ontario
+706,Customer 0706,Small Business,Hamilton,Ontario
+707,Customer 0707,Consumer,Laval,Quebec
+708,Customer 0708,Consumer,Quebec City,Quebec
+709,Customer 0709,Consumer,Quebec City,Quebec
+710,Customer 0710,Consumer,Montreal,Quebec
+711,Customer 0711,Corporate,Hamilton,Ontario
+712,Customer 0712,Small Business,Saskatoon,Saskatchewan
+713,Customer 0713,Consumer,Ottawa,Ontario
+714,Customer 0714,Consumer,Halifax,Nova Scotia
+715,Customer 0715,Consumer,London,Ontario
+716,Customer 0716,Corporate,Montreal,Quebec
+717,Customer 0717,Consumer,Calgary,Alberta
+718,Customer 0718,Corporate,Vancouver,British Columbia
+719,Customer 0719,Consumer,Kelowna,British Columbia
+720,Customer 0720,Corporate,Hamilton,Ontario
+721,Customer 0721,Corporate,Winnipeg,Manitoba
+722,Customer 0722,Consumer,Victoria,British Columbia
+723,Customer 0723,Consumer,Halifax,Nova Scotia
+724,Customer 0724,Corporate,Saskatoon,Saskatchewan
+725,Customer 0725,Corporate,Edmonton,Alberta
+726,Customer 0726,Consumer,Edmonton,Alberta
+727,Customer 0727,Consumer,Regina,Saskatchewan
+728,Customer 0728,Corporate,Victoria,British Columbia
+729,Customer 0729,Consumer,Kelowna,British Columbia
+730,Customer 0730,Corporate,Quebec City,Quebec
+731,Customer 0731,Consumer,Laval,Quebec
+732,Customer 0732,Corporate,Victoria,British Columbia
+733,Customer 0733,Small Business,Vancouver,British Columbia
+734,Customer 0734,Consumer,Toronto,Ontario
+735,Customer 0735,Small Business,London,Ontario
+736,Customer 0736,Small Business,Laval,Quebec
+737,Customer 0737,Consumer,Toronto,Ontario
+738,Customer 0738,Consumer,Vancouver,British Columbia
+739,Customer 0739,Small Business,Regina,Saskatchewan
+740,Customer 0740,Corporate,Ottawa,Ontario
+741,Customer 0741,Consumer,Edmonton,Alberta
+742,Customer 0742,Consumer,Ottawa,Ontario
+743,Customer 0743,Consumer,Kelowna,British Columbia
+744,Customer 0744,Consumer,London,Ontario
+745,Customer 0745,Consumer,Victoria,British Columbia
+746,Customer 0746,Consumer,Laval,Quebec
+747,Customer 0747,Corporate,Edmonton,Alberta
+748,Customer 0748,Corporate,Ottawa,Ontario
+749,Customer 0749,Consumer,Quebec City,Quebec
+750,Customer 0750,Corporate,Winnipeg,Manitoba
+751,Customer 0751,Consumer,Vancouver,British Columbia
+752,Customer 0752,Consumer,Ottawa,Ontario
+753,Customer 0753,Consumer,Calgary,Alberta
+754,Customer 0754,Consumer,Hamilton,Ontario
+755,Customer 0755,Consumer,Hamilton,Ontario
+756,Customer 0756,Corporate,Toronto,Ontario
+757,Customer 0757,Consumer,Edmonton,Alberta
+758,Customer 0758,Consumer,Calgary,Alberta
+759,Customer 0759,Small Business,Winnipeg,Manitoba
+760,Customer 0760,Small Business,Calgary,Alberta
+761,Customer 0761,Consumer,Winnipeg,Manitoba
+762,Customer 0762,Corporate,Halifax,Nova Scotia
+763,Customer 0763,Consumer,Quebec City,Quebec
+764,Customer 0764,Consumer,Kelowna,British Columbia
+765,Customer 0765,Consumer,Halifax,Nova Scotia
+766,Customer 0766,Consumer,Laval,Quebec
+767,Customer 0767,Small Business,Ottawa,Ontario
+768,Customer 0768,Consumer,Halifax,Nova Scotia
+769,Customer 0769,Consumer,Hamilton,Ontario
+770,Customer 0770,Corporate,Montreal,Quebec
+771,Customer 0771,Corporate,Halifax,Nova Scotia
+772,Customer 0772,Small Business,Calgary,Alberta
+773,Customer 0773,Consumer,Vancouver,British Columbia
+774,Customer 0774,Consumer,Laval,Quebec
+775,Customer 0775,Consumer,Toronto,Ontario
+776,Customer 0776,Corporate,Quebec City,Quebec
+777,Customer 0777,Corporate,Vancouver,British Columbia
+778,Customer 0778,Consumer,Montreal,Quebec
+779,Customer 0779,Consumer,Edmonton,Alberta
+780,Customer 0780,Consumer,Regina,Saskatchewan
+781,Customer 0781,Small Business,Victoria,British Columbia
+782,Customer 0782,Consumer,Kelowna,British Columbia
+783,Customer 0783,Consumer,Calgary,Alberta
+784,Customer 0784,Small Business,Montreal,Quebec
+785,Customer 0785,Small Business,Ottawa,Ontario
+786,Customer 0786,Corporate,Edmonton,Alberta
+787,Customer 0787,Corporate,Calgary,Alberta
+788,Customer 0788,Consumer,Saskatoon,Saskatchewan
+789,Customer 0789,Corporate,London,Ontario
+790,Customer 0790,Consumer,Montreal,Quebec
+791,Customer 0791,Consumer,Hamilton,Ontario
+792,Customer 0792,Corporate,Quebec City,Quebec
+793,Customer 0793,Small Business,Montreal,Quebec
+794,Customer 0794,Small Business,Hamilton,Ontario
+795,Customer 0795,Consumer,Saskatoon,Saskatchewan
+796,Customer 0796,Consumer,Edmonton,Alberta
+797,Customer 0797,Small Business,Laval,Quebec
+798,Customer 0798,Small Business,Edmonton,Alberta
+799,Customer 0799,Consumer,London,Ontario
+800,Customer 0800,Consumer,Toronto,Ontario
+801,Customer 0801,Consumer,Edmonton,Alberta
+802,Customer 0802,Consumer,Vancouver,British Columbia
+803,Customer 0803,Consumer,Edmonton,Alberta
+804,Customer 0804,Consumer,Laval,Quebec
+805,Customer 0805,Consumer,London,Ontario
+806,Customer 0806,Consumer,Laval,Quebec
+807,Customer 0807,Consumer,Calgary,Alberta
+808,Customer 0808,Consumer,Calgary,Alberta
+809,Customer 0809,Consumer,Winnipeg,Manitoba
+810,Customer 0810,Small Business,Regina,Saskatchewan
+811,Customer 0811,Consumer,Ottawa,Ontario
+812,Customer 0812,Consumer,Edmonton,Alberta
+813,Customer 0813,Small Business,Regina,Saskatchewan
+814,Customer 0814,Consumer,London,Ontario
+815,Customer 0815,Consumer,London,Ontario
+816,Customer 0816,Small Business,Hamilton,Ontario
+817,Customer 0817,Small Business,Edmonton,Alberta
+818,Customer 0818,Consumer,Calgary,Alberta
+819,Customer 0819,Small Business,London,Ontario
+820,Customer 0820,Consumer,Halifax,Nova Scotia
+821,Customer 0821,Small Business,Ottawa,Ontario
+822,Customer 0822,Small Business,Victoria,British Columbia
+823,Customer 0823,Consumer,London,Ontario
+824,Customer 0824,Consumer,Edmonton,Alberta
+825,Customer 0825,Consumer,Toronto,Ontario
+826,Customer 0826,Consumer,Laval,Quebec
+827,Customer 0827,Consumer,Hamilton,Ontario
+828,Customer 0828,Consumer,Victoria,British Columbia
+829,Customer 0829,Consumer,Winnipeg,Manitoba
+830,Customer 0830,Consumer,Toronto,Ontario
+831,Customer 0831,Small Business,Halifax,Nova Scotia
+832,Customer 0832,Consumer,Laval,Quebec
+833,Customer 0833,Consumer,Laval,Quebec
+834,Customer 0834,Consumer,Ottawa,Ontario
+835,Customer 0835,Consumer,Ottawa,Ontario
+836,Customer 0836,Corporate,Ottawa,Ontario
+837,Customer 0837,Consumer,Calgary,Alberta
+838,Customer 0838,Consumer,Ottawa,Ontario
+839,Customer 0839,Corporate,Vancouver,British Columbia
+840,Customer 0840,Corporate,Vancouver,British Columbia
+841,Customer 0841,Consumer,Laval,Quebec
+842,Customer 0842,Consumer,Quebec City,Quebec
+843,Customer 0843,Consumer,Hamilton,Ontario
+844,Customer 0844,Consumer,London,Ontario
+845,Customer 0845,Corporate,Victoria,British Columbia
+846,Customer 0846,Corporate,Winnipeg,Manitoba
+847,Customer 0847,Consumer,Laval,Quebec
+848,Customer 0848,Corporate,Laval,Quebec
+849,Customer 0849,Small Business,Edmonton,Alberta
+850,Customer 0850,Consumer,Toronto,Ontario
+851,Customer 0851,Small Business,Montreal,Quebec
+852,Customer 0852,Consumer,Regina,Saskatchewan
+853,Customer 0853,Consumer,Laval,Quebec
+854,Customer 0854,Corporate,Toronto,Ontario
+855,Customer 0855,Small Business,Hamilton,Ontario
+856,Customer 0856,Corporate,Quebec City,Quebec
+857,Customer 0857,Small Business,Winnipeg,Manitoba
+858,Customer 0858,Consumer,Kelowna,British Columbia
+859,Customer 0859,Consumer,Hamilton,Ontario
+860,Customer 0860,Corporate,Montreal,Quebec
+861,Customer 0861,Consumer,Victoria,British Columbia
+862,Customer 0862,Consumer,Victoria,British Columbia
+863,Customer 0863,Small Business,London,Ontario
+864,Customer 0864,Small Business,Montreal,Quebec
+865,Customer 0865,Consumer,Edmonton,Alberta
+866,Customer 0866,Consumer,Toronto,Ontario
+867,Customer 0867,Consumer,Edmonton,Alberta
+868,Customer 0868,Small Business,Hamilton,Ontario
+869,Customer 0869,Small Business,Hamilton,Ontario
+870,Customer 0870,Corporate,Quebec City,Quebec
+871,Customer 0871,Consumer,Edmonton,Alberta
+872,Customer 0872,Consumer,Kelowna,British Columbia
+873,Customer 0873,Consumer,Vancouver,British Columbia
+874,Customer 0874,Consumer,London,Ontario
+875,Customer 0875,Small Business,Montreal,Quebec
+876,Customer 0876,Consumer,Montreal,Quebec
+877,Customer 0877,Consumer,Toronto,Ontario
+878,Customer 0878,Consumer,Calgary,Alberta
+879,Customer 0879,Corporate,London,Ontario
+880,Customer 0880,Consumer,Quebec City,Quebec
+881,Customer 0881,Consumer,Quebec City,Quebec
+882,Customer 0882,Consumer,Kelowna,British Columbia
+883,Customer 0883,Consumer,Winnipeg,Manitoba
+884,Customer 0884,Consumer,Edmonton,Alberta
+885,Customer 0885,Consumer,London,Ontario
+886,Customer 0886,Small Business,Toronto,Ontario
+887,Customer 0887,Small Business,Montreal,Quebec
+888,Customer 0888,Consumer,Toronto,Ontario
+889,Customer 0889,Corporate,Vancouver,British Columbia
+890,Customer 0890,Consumer,Quebec City,Quebec
+891,Customer 0891,Consumer,Quebec City,Quebec
+892,Customer 0892,Consumer,Vancouver,British Columbia
+893,Customer 0893,Consumer,Laval,Quebec
+894,Customer 0894,Consumer,Edmonton,Alberta
+895,Customer 0895,Small Business,Edmonton,Alberta
+896,Customer 0896,Corporate,Edmonton,Alberta
+897,Customer 0897,Small Business,Saskatoon,Saskatchewan
+898,Customer 0898,Small Business,Kelowna,British Columbia
+899,Customer 0899,Consumer,Victoria,British Columbia
+900,Customer 0900,Small Business,Edmonton,Alberta
+901,Customer 0901,Corporate,Vancouver,British Columbia
+902,Customer 0902,Consumer,Halifax,Nova Scotia
+903,Customer 0903,Consumer,Quebec City,Quebec
+904,Customer 0904,Consumer,London,Ontario
+905,Customer 0905,Consumer,Hamilton,Ontario
+906,Customer 0906,Corporate,Halifax,Nova Scotia
+907,Customer 0907,Corporate,Toronto,Ontario
+908,Customer 0908,Consumer,Halifax,Nova Scotia
+909,Customer 0909,Corporate,London,Ontario
+910,Customer 0910,Consumer,Saskatoon,Saskatchewan
+911,Customer 0911,Consumer,Toronto,Ontario
+912,Customer 0912,Consumer,London,Ontario
+913,Customer 0913,Consumer,Edmonton,Alberta
+914,Customer 0914,Small Business,Quebec City,Quebec
+915,Customer 0915,Small Business,Montreal,Quebec
+916,Customer 0916,Consumer,Toronto,Ontario
+917,Customer 0917,Consumer,Ottawa,Ontario
+918,Customer 0918,Consumer,Calgary,Alberta
+919,Customer 0919,Consumer,Montreal,Quebec
+920,Customer 0920,Corporate,Edmonton,Alberta
+921,Customer 0921,Consumer,Hamilton,Ontario
+922,Customer 0922,Small Business,Quebec City,Quebec
+923,Customer 0923,Corporate,Halifax,Nova Scotia
+924,Customer 0924,Small Business,Winnipeg,Manitoba
+925,Customer 0925,Small Business,Laval,Quebec
+926,Customer 0926,Corporate,Kelowna,British Columbia
+927,Customer 0927,Consumer,Hamilton,Ontario
+928,Customer 0928,Corporate,London,Ontario
+929,Customer 0929,Consumer,Quebec City,Quebec
+930,Customer 0930,Consumer,Montreal,Quebec
+931,Customer 0931,Consumer,Ottawa,Ontario
+932,Customer 0932,Consumer,Victoria,British Columbia
+933,Customer 0933,Consumer,Hamilton,Ontario
+934,Customer 0934,Consumer,Halifax,Nova Scotia
+935,Customer 0935,Small Business,Hamilton,Ontario
+936,Customer 0936,Consumer,Vancouver,British Columbia
+937,Customer 0937,Consumer,Montreal,Quebec
+938,Customer 0938,Consumer,Kelowna,British Columbia
+939,Customer 0939,Corporate,Quebec City,Quebec
+940,Customer 0940,Small Business,Ottawa,Ontario
+941,Customer 0941,Consumer,Kelowna,British Columbia
+942,Customer 0942,Consumer,Saskatoon,Saskatchewan
+943,Customer 0943,Consumer,Kelowna,British Columbia
+944,Customer 0944,Small Business,Hamilton,Ontario
+945,Customer 0945,Consumer,London,Ontario
+946,Customer 0946,Consumer,Hamilton,Ontario
+947,Customer 0947,Consumer,Ottawa,Ontario
+948,Customer 0948,Corporate,London,Ontario
+949,Customer 0949,Consumer,Halifax,Nova Scotia
+950,Customer 0950,Small Business,London,Ontario
+951,Customer 0951,Corporate,Montreal,Quebec
+952,Customer 0952,Corporate,Ottawa,Ontario
+953,Customer 0953,Consumer,London,Ontario
+954,Customer 0954,Corporate,Quebec City,Quebec
+955,Customer 0955,Small Business,Laval,Quebec
+956,Customer 0956,Small Business,Hamilton,Ontario
+957,Customer 0957,Consumer,Calgary,Alberta
+958,Customer 0958,Consumer,Saskatoon,Saskatchewan
+959,Customer 0959,Consumer,Hamilton,Ontario
+960,Customer 0960,Consumer,Hamilton,Ontario
+961,Customer 0961,Consumer,Edmonton,Alberta
+962,Customer 0962,Consumer,Laval,Quebec
+963,Customer 0963,Consumer,Ottawa,Ontario
+964,Customer 0964,Corporate,London,Ontario
+965,Customer 0965,Consumer,Regina,Saskatchewan
+966,Customer 0966,Consumer,Vancouver,British Columbia
+967,Customer 0967,Consumer,Laval,Quebec
+968,Customer 0968,Corporate,Toronto,Ontario
+969,Customer 0969,Consumer,Halifax,Nova Scotia
+970,Customer 0970,Consumer,Ottawa,Ontario
+971,Customer 0971,Small Business,Toronto,Ontario
+972,Customer 0972,Corporate,Calgary,Alberta
+973,Customer 0973,Consumer,Edmonton,Alberta
+974,Customer 0974,Consumer,Toronto,Ontario
+975,Customer 0975,Small Business,Montreal,Quebec
+976,Customer 0976,Consumer,Toronto,Ontario
+977,Customer 0977,Small Business,Saskatoon,Saskatchewan
+978,Customer 0978,Consumer,Hamilton,Ontario
+979,Customer 0979,Corporate,Ottawa,Ontario
+980,Customer 0980,Consumer,Kelowna,British Columbia
+981,Customer 0981,Consumer,Winnipeg,Manitoba
+982,Customer 0982,Consumer,Vancouver,British Columbia
+983,Customer 0983,Corporate,Laval,Quebec
+984,Customer 0984,Small Business,Ottawa,Ontario
+985,Customer 0985,Consumer,Ottawa,Ontario
+986,Customer 0986,Consumer,Calgary,Alberta
+987,Customer 0987,Corporate,Hamilton,Ontario
+988,Customer 0988,Corporate,Halifax,Nova Scotia
+989,Customer 0989,Corporate,Halifax,Nova Scotia
+990,Customer 0990,Consumer,Victoria,British Columbia
+991,Customer 0991,Small Business,London,Ontario
+992,Customer 0992,Small Business,Halifax,Nova Scotia
+993,Customer 0993,Corporate,Edmonton,Alberta
+994,Customer 0994,Consumer,Kelowna,British Columbia
+995,Customer 0995,Corporate,London,Ontario
+996,Customer 0996,Consumer,Vancouver,British Columbia
+997,Customer 0997,Small Business,Edmonton,Alberta
+998,Customer 0998,Corporate,Hamilton,Ontario
+999,Customer 0999,Consumer,Toronto,Ontario
+1000,Customer 1000,Consumer,Quebec City,Quebec
+1001,Customer 1001,Consumer,Edmonton,Alberta
+1002,Customer 1002,Small Business,Toronto,Ontario
+1003,Customer 1003,Corporate,Victoria,British Columbia
+1004,Customer 1004,Corporate,Laval,Quebec
+1005,Customer 1005,Corporate,Vancouver,British Columbia
+1006,Customer 1006,Consumer,London,Ontario
+1007,Customer 1007,Corporate,Regina,Saskatchewan
+1008,Customer 1008,Consumer,London,Ontario
+1009,Customer 1009,Consumer,Edmonton,Alberta
+1010,Customer 1010,Consumer,Hamilton,Ontario
+1011,Customer 1011,Consumer,Kelowna,British Columbia
+1012,Customer 1012,Consumer,Hamilton,Ontario
+1013,Customer 1013,Small Business,Ottawa,Ontario
+1014,Customer 1014,Consumer,Winnipeg,Manitoba
+1015,Customer 1015,Corporate,Laval,Quebec
+1016,Customer 1016,Consumer,Montreal,Quebec
+1017,Customer 1017,Corporate,Vancouver,British Columbia
+1018,Customer 1018,Corporate,London,Ontario
+1019,Customer 1019,Consumer,Victoria,British Columbia
+1020,Customer 1020,Consumer,Halifax,Nova Scotia
+1021,Customer 1021,Consumer,Quebec City,Quebec
+1022,Customer 1022,Corporate,Calgary,Alberta
+1023,Customer 1023,Small Business,London,Ontario
+1024,Customer 1024,Consumer,Montreal,Quebec
+1025,Customer 1025,Consumer,London,Ontario
+1026,Customer 1026,Corporate,London,Ontario
+1027,Customer 1027,Consumer,Kelowna,British Columbia
+1028,Customer 1028,Corporate,Hamilton,Ontario
+1029,Customer 1029,Small Business,Regina,Saskatchewan
+1030,Customer 1030,Consumer,Victoria,British Columbia
+1031,Customer 1031,Small Business,London,Ontario
+1032,Customer 1032,Consumer,Vancouver,British Columbia
+1033,Customer 1033,Corporate,London,Ontario
+1034,Customer 1034,Corporate,Vancouver,British Columbia
+1035,Customer 1035,Consumer,Calgary,Alberta
+1036,Customer 1036,Consumer,Edmonton,Alberta
+1037,Customer 1037,Consumer,London,Ontario
+1038,Customer 1038,Corporate,London,Ontario
+1039,Customer 1039,Consumer,Vancouver,British Columbia
+1040,Customer 1040,Consumer,Toronto,Ontario
+1041,Customer 1041,Corporate,Halifax,Nova Scotia
+1042,Customer 1042,Small Business,Laval,Quebec
+1043,Customer 1043,Small Business,Montreal,Quebec
+1044,Customer 1044,Corporate,Edmonton,Alberta
+1045,Customer 1045,Small Business,Winnipeg,Manitoba
+1046,Customer 1046,Corporate,Quebec City,Quebec
+1047,Customer 1047,Corporate,Quebec City,Quebec
+1048,Customer 1048,Consumer,Ottawa,Ontario
+1049,Customer 1049,Corporate,Halifax,Nova Scotia
+1050,Customer 1050,Consumer,Winnipeg,Manitoba
+1051,Customer 1051,Consumer,Toronto,Ontario
+1052,Customer 1052,Corporate,Hamilton,Ontario
+1053,Customer 1053,Corporate,Winnipeg,Manitoba
+1054,Customer 1054,Consumer,Quebec City,Quebec
+1055,Customer 1055,Small Business,London,Ontario
+1056,Customer 1056,Corporate,Toronto,Ontario
+1057,Customer 1057,Consumer,Vancouver,British Columbia
+1058,Customer 1058,Corporate,Kelowna,British Columbia
+1059,Customer 1059,Consumer,Toronto,Ontario
+1060,Customer 1060,Corporate,Quebec City,Quebec
+1061,Customer 1061,Consumer,Edmonton,Alberta
+1062,Customer 1062,Consumer,Calgary,Alberta
+1063,Customer 1063,Consumer,Kelowna,British Columbia
+1064,Customer 1064,Corporate,Calgary,Alberta
+1065,Customer 1065,Corporate,Victoria,British Columbia
+1066,Customer 1066,Consumer,Calgary,Alberta
+1067,Customer 1067,Corporate,Toronto,Ontario
+1068,Customer 1068,Consumer,Hamilton,Ontario
+1069,Customer 1069,Consumer,London,Ontario
+1070,Customer 1070,Corporate,Laval,Quebec
+1071,Customer 1071,Corporate,London,Ontario
+1072,Customer 1072,Small Business,Calgary,Alberta
+1073,Customer 1073,Consumer,Ottawa,Ontario
+1074,Customer 1074,Small Business,Calgary,Alberta
+1075,Customer 1075,Consumer,Hamilton,Ontario
+1076,Customer 1076,Consumer,Toronto,Ontario
+1077,Customer 1077,Corporate,London,Ontario
+1078,Customer 1078,Consumer,Hamilton,Ontario
+1079,Customer 1079,Corporate,London,Ontario
+1080,Customer 1080,Consumer,Ottawa,Ontario
+1081,Customer 1081,Small Business,Saskatoon,Saskatchewan
+1082,Customer 1082,Corporate,Montreal,Quebec
+1083,Customer 1083,Consumer,Montreal,Quebec
+1084,Customer 1084,Corporate,Toronto,Ontario
+1085,Customer 1085,Consumer,London,Ontario
+1086,Customer 1086,Consumer,Kelowna,British Columbia
+1087,Customer 1087,Small Business,Ottawa,Ontario
+1088,Customer 1088,Consumer,London,Ontario
+1089,Customer 1089,Consumer,Toronto,Ontario
+1090,Customer 1090,Consumer,Calgary,Alberta
+1091,Customer 1091,Consumer,Halifax,Nova Scotia
+1092,Customer 1092,Corporate,Toronto,Ontario
+1093,Customer 1093,Corporate,London,Ontario
+1094,Customer 1094,Consumer,Hamilton,Ontario
+1095,Customer 1095,Consumer,Hamilton,Ontario
+1096,Customer 1096,Consumer,Ottawa,Ontario
+1097,Customer 1097,Consumer,Edmonton,Alberta
+1098,Customer 1098,Small Business,Hamilton,Ontario
+1099,Customer 1099,Small Business,Edmonton,Alberta
+1100,Customer 1100,Consumer,Hamilton,Ontario
+1101,Customer 1101,Corporate,Montreal,Quebec
+1102,Customer 1102,Consumer,Calgary,Alberta
+1103,Customer 1103,Consumer,Toronto,Ontario
+1104,Customer 1104,Corporate,Winnipeg,Manitoba
+1105,Customer 1105,Consumer,Calgary,Alberta
+1106,Customer 1106,Consumer,Vancouver,British Columbia
+1107,Customer 1107,Consumer,Hamilton,Ontario
+1108,Customer 1108,Consumer,London,Ontario
+1109,Customer 1109,Consumer,Quebec City,Quebec
+1110,Customer 1110,Corporate,Toronto,Ontario
+1111,Customer 1111,Corporate,Winnipeg,Manitoba
+1112,Customer 1112,Small Business,Winnipeg,Manitoba
+1113,Customer 1113,Consumer,Montreal,Quebec
+1114,Customer 1114,Small Business,Kelowna,British Columbia
+1115,Customer 1115,Consumer,Victoria,British Columbia
+1116,Customer 1116,Corporate,Hamilton,Ontario
+1117,Customer 1117,Consumer,Hamilton,Ontario
+1118,Customer 1118,Small Business,Quebec City,Quebec
+1119,Customer 1119,Consumer,Quebec City,Quebec
+1120,Customer 1120,Consumer,Vancouver,British Columbia
+1121,Customer 1121,Corporate,Kelowna,British Columbia
+1122,Customer 1122,Corporate,Hamilton,Ontario
+1123,Customer 1123,Small Business,Halifax,Nova Scotia
+1124,Customer 1124,Small Business,London,Ontario
+1125,Customer 1125,Corporate,Hamilton,Ontario
+1126,Customer 1126,Small Business,Ottawa,Ontario
+1127,Customer 1127,Consumer,Laval,Quebec
+1128,Customer 1128,Consumer,Halifax,Nova Scotia
+1129,Customer 1129,Consumer,Kelowna,British Columbia
+1130,Customer 1130,Corporate,Quebec City,Quebec
+1131,Customer 1131,Consumer,Calgary,Alberta
+1132,Customer 1132,Consumer,Halifax,Nova Scotia
+1133,Customer 1133,Consumer,Quebec City,Quebec
+1134,Customer 1134,Small Business,Edmonton,Alberta
+1135,Customer 1135,Consumer,Saskatoon,Saskatchewan
+1136,Customer 1136,Consumer,Toronto,Ontario
+1137,Customer 1137,Consumer,Quebec City,Quebec
+1138,Customer 1138,Corporate,Kelowna,British Columbia
+1139,Customer 1139,Corporate,Montreal,Quebec
+1140,Customer 1140,Corporate,London,Ontario
+1141,Customer 1141,Consumer,London,Ontario
+1142,Customer 1142,Consumer,Winnipeg,Manitoba
+1143,Customer 1143,Consumer,Winnipeg,Manitoba
+1144,Customer 1144,Consumer,Toronto,Ontario
+1145,Customer 1145,Corporate,Edmonton,Alberta
+1146,Customer 1146,Small Business,Victoria,British Columbia
+1147,Customer 1147,Consumer,Laval,Quebec
+1148,Customer 1148,Consumer,Montreal,Quebec
+1149,Customer 1149,Small Business,Ottawa,Ontario
+1150,Customer 1150,Small Business,Victoria,British Columbia
+1151,Customer 1151,Consumer,Montreal,Quebec
+1152,Customer 1152,Corporate,Kelowna,British Columbia
+1153,Customer 1153,Consumer,Victoria,British Columbia
+1154,Customer 1154,Corporate,Regina,Saskatchewan
+1155,Customer 1155,Consumer,Victoria,British Columbia
+1156,Customer 1156,Corporate,Hamilton,Ontario
+1157,Customer 1157,Consumer,Ottawa,Ontario
+1158,Customer 1158,Consumer,Quebec City,Quebec
+1159,Customer 1159,Corporate,Hamilton,Ontario
+1160,Customer 1160,Small Business,Laval,Quebec
+1161,Customer 1161,Consumer,Toronto,Ontario
+1162,Customer 1162,Consumer,London,Ontario
+1163,Customer 1163,Consumer,London,Ontario
+1164,Customer 1164,Consumer,Ottawa,Ontario
+1165,Customer 1165,Consumer,Toronto,Ontario
+1166,Customer 1166,Consumer,Halifax,Nova Scotia
+1167,Customer 1167,Corporate,Ottawa,Ontario
+1168,Customer 1168,Small Business,Halifax,Nova Scotia
+1169,Customer 1169,Consumer,London,Ontario
+1170,Customer 1170,Consumer,Victoria,British Columbia
+1171,Customer 1171,Consumer,Quebec City,Quebec
+1172,Customer 1172,Consumer,Vancouver,British Columbia
+1173,Customer 1173,Consumer,Edmonton,Alberta
+1174,Customer 1174,Small Business,Quebec City,Quebec
+1175,Customer 1175,Small Business,Victoria,British Columbia
+1176,Customer 1176,Consumer,Hamilton,Ontario
+1177,Customer 1177,Corporate,Calgary,Alberta
+1178,Customer 1178,Consumer,Laval,Quebec
+1179,Customer 1179,Consumer,Hamilton,Ontario
+1180,Customer 1180,Consumer,Toronto,Ontario
+1181,Customer 1181,Small Business,Hamilton,Ontario
+1182,Customer 1182,Consumer,Edmonton,Alberta
+1183,Customer 1183,Corporate,Montreal,Quebec
+1184,Customer 1184,Corporate,Montreal,Quebec
+1185,Customer 1185,Small Business,Kelowna,British Columbia
+1186,Customer 1186,Corporate,Ottawa,Ontario
+1187,Customer 1187,Corporate,Regina,Saskatchewan
+1188,Customer 1188,Consumer,Edmonton,Alberta
+1189,Customer 1189,Consumer,Victoria,British Columbia
+1190,Customer 1190,Consumer,Toronto,Ontario
+1191,Customer 1191,Corporate,London,Ontario
+1192,Customer 1192,Consumer,London,Ontario
+1193,Customer 1193,Consumer,Vancouver,British Columbia
+1194,Customer 1194,Consumer,Toronto,Ontario
+1195,Customer 1195,Consumer,Ottawa,Ontario
+1196,Customer 1196,Small Business,Edmonton,Alberta
+1197,Customer 1197,Corporate,Laval,Quebec
+1198,Customer 1198,Consumer,Hamilton,Ontario
+1199,Customer 1199,Small Business,Ottawa,Ontario
+1200,Customer 1200,Small Business,London,Ontario
+1201,Customer 1201,Corporate,Quebec City,Quebec
+1202,Customer 1202,Consumer,Quebec City,Quebec
+1203,Customer 1203,Consumer,Saskatoon,Saskatchewan
+1204,Customer 1204,Small Business,Victoria,British Columbia
+1205,Customer 1205,Corporate,London,Ontario
+1206,Customer 1206,Consumer,Vancouver,British Columbia
+1207,Customer 1207,Consumer,Hamilton,Ontario
+1208,Customer 1208,Corporate,Edmonton,Alberta
+1209,Customer 1209,Consumer,Toronto,Ontario
+1210,Customer 1210,Corporate,Victoria,British Columbia
+1211,Customer 1211,Small Business,Halifax,Nova Scotia
+1212,Customer 1212,Consumer,Regina,Saskatchewan
+1213,Customer 1213,Corporate,Quebec City,Quebec
+1214,Customer 1214,Small Business,London,Ontario
+1215,Customer 1215,Consumer,London,Ontario
+1216,Customer 1216,Consumer,Toronto,Ontario
+1217,Customer 1217,Consumer,Ottawa,Ontario
+1218,Customer 1218,Consumer,Toronto,Ontario
+1219,Customer 1219,Corporate,Winnipeg,Manitoba
+1220,Customer 1220,Corporate,Ottawa,Ontario
+1221,Customer 1221,Corporate,Toronto,Ontario
+1222,Customer 1222,Corporate,Calgary,Alberta
+1223,Customer 1223,Small Business,Calgary,Alberta
+1224,Customer 1224,Consumer,Ottawa,Ontario
+1225,Customer 1225,Corporate,Laval,Quebec
+1226,Customer 1226,Small Business,Montreal,Quebec
+1227,Customer 1227,Consumer,Kelowna,British Columbia
+1228,Customer 1228,Corporate,Toronto,Ontario
+1229,Customer 1229,Consumer,Calgary,Alberta
+1230,Customer 1230,Consumer,London,Ontario
+1231,Customer 1231,Consumer,Laval,Quebec
+1232,Customer 1232,Small Business,Halifax,Nova Scotia
+1233,Customer 1233,Corporate,London,Ontario
+1234,Customer 1234,Corporate,Calgary,Alberta
+1235,Customer 1235,Consumer,Laval,Quebec
+1236,Customer 1236,Consumer,London,Ontario
+1237,Customer 1237,Consumer,Montreal,Quebec
+1238,Customer 1238,Small Business,London,Ontario
+1239,Customer 1239,Consumer,Quebec City,Quebec
+1240,Customer 1240,Corporate,Quebec City,Quebec
+1241,Customer 1241,Consumer,Edmonton,Alberta
+1242,Customer 1242,Consumer,Edmonton,Alberta
+1243,Customer 1243,Small Business,Winnipeg,Manitoba
+1244,Customer 1244,Consumer,Montreal,Quebec
+1245,Customer 1245,Consumer,Halifax,Nova Scotia
+1246,Customer 1246,Consumer,Winnipeg,Manitoba
+1247,Customer 1247,Small Business,Montreal,Quebec
+1248,Customer 1248,Small Business,London,Ontario
+1249,Customer 1249,Consumer,London,Ontario
+1250,Customer 1250,Consumer,Edmonton,Alberta
+1251,Customer 1251,Corporate,Laval,Quebec
+1252,Customer 1252,Small Business,Toronto,Ontario
+1253,Customer 1253,Corporate,Winnipeg,Manitoba
+1254,Customer 1254,Small Business,Vancouver,British Columbia
+1255,Customer 1255,Small Business,London,Ontario
+1256,Customer 1256,Consumer,Edmonton,Alberta
+1257,Customer 1257,Consumer,Laval,Quebec
+1258,Customer 1258,Consumer,Ottawa,Ontario
+1259,Customer 1259,Consumer,Montreal,Quebec
+1260,Customer 1260,Consumer,Laval,Quebec
+1261,Customer 1261,Small Business,Saskatoon,Saskatchewan
+1262,Customer 1262,Small Business,Victoria,British Columbia
+1263,Customer 1263,Small Business,Toronto,Ontario
+1264,Customer 1264,Consumer,Montreal,Quebec
+1265,Customer 1265,Consumer,Hamilton,Ontario
+1266,Customer 1266,Consumer,Hamilton,Ontario
+1267,Customer 1267,Consumer,Calgary,Alberta
+1268,Customer 1268,Small Business,Laval,Quebec
+1269,Customer 1269,Corporate,Edmonton,Alberta
+1270,Customer 1270,Corporate,London,Ontario
+1271,Customer 1271,Small Business,Victoria,British Columbia
+1272,Customer 1272,Consumer,London,Ontario
+1273,Customer 1273,Small Business,London,Ontario
+1274,Customer 1274,Small Business,Laval,Quebec
+1275,Customer 1275,Consumer,Halifax,Nova Scotia
+1276,Customer 1276,Corporate,Victoria,British Columbia
+1277,Customer 1277,Corporate,Toronto,Ontario
+1278,Customer 1278,Consumer,Hamilton,Ontario
+1279,Customer 1279,Consumer,Ottawa,Ontario
+1280,Customer 1280,Consumer,Victoria,British Columbia
+1281,Customer 1281,Small Business,Halifax,Nova Scotia
+1282,Customer 1282,Consumer,Kelowna,British Columbia
+1283,Customer 1283,Consumer,Edmonton,Alberta
+1284,Customer 1284,Consumer,London,Ontario
+1285,Customer 1285,Small Business,Edmonton,Alberta
+1286,Customer 1286,Consumer,Quebec City,Quebec
+1287,Customer 1287,Consumer,Vancouver,British Columbia
+1288,Customer 1288,Consumer,Ottawa,Ontario
+1289,Customer 1289,Consumer,Vancouver,British Columbia
+1290,Customer 1290,Corporate,Toronto,Ontario
+1291,Customer 1291,Consumer,Toronto,Ontario
+1292,Customer 1292,Consumer,Hamilton,Ontario
+1293,Customer 1293,Consumer,Laval,Quebec
+1294,Customer 1294,Consumer,Toronto,Ontario
+1295,Customer 1295,Corporate,Vancouver,British Columbia
+1296,Customer 1296,Corporate,Victoria,British Columbia
+1297,Customer 1297,Consumer,London,Ontario
+1298,Customer 1298,Corporate,Edmonton,Alberta
+1299,Customer 1299,Corporate,Vancouver,British Columbia
+1300,Customer 1300,Consumer,Halifax,Nova Scotia
+1301,Customer 1301,Corporate,Winnipeg,Manitoba
+1302,Customer 1302,Consumer,Halifax,Nova Scotia
+1303,Customer 1303,Corporate,Halifax,Nova Scotia
+1304,Customer 1304,Corporate,Winnipeg,Manitoba
+1305,Customer 1305,Corporate,Regina,Saskatchewan
+1306,Customer 1306,Consumer,Halifax,Nova Scotia
+1307,Customer 1307,Small Business,Hamilton,Ontario
+1308,Customer 1308,Consumer,Ottawa,Ontario
+1309,Customer 1309,Consumer,Halifax,Nova Scotia
+1310,Customer 1310,Small Business,London,Ontario
+1311,Customer 1311,Consumer,Winnipeg,Manitoba
+1312,Customer 1312,Small Business,Saskatoon,Saskatchewan
+1313,Customer 1313,Consumer,Vancouver,British Columbia
+1314,Customer 1314,Small Business,London,Ontario
+1315,Customer 1315,Consumer,Kelowna,British Columbia
+1316,Customer 1316,Small Business,Edmonton,Alberta
+1317,Customer 1317,Consumer,Hamilton,Ontario
+1318,Customer 1318,Consumer,Winnipeg,Manitoba
+1319,Customer 1319,Corporate,Victoria,British Columbia
+1320,Customer 1320,Consumer,Halifax,Nova Scotia
+1321,Customer 1321,Consumer,Ottawa,Ontario
+1322,Customer 1322,Consumer,Halifax,Nova Scotia
+1323,Customer 1323,Consumer,Ottawa,Ontario
+1324,Customer 1324,Consumer,Victoria,British Columbia
+1325,Customer 1325,Consumer,Halifax,Nova Scotia
+1326,Customer 1326,Corporate,Laval,Quebec
+1327,Customer 1327,Corporate,Hamilton,Ontario
+1328,Customer 1328,Corporate,Saskatoon,Saskatchewan
+1329,Customer 1329,Consumer,Laval,Quebec
+1330,Customer 1330,Consumer,Toronto,Ontario
+1331,Customer 1331,Corporate,Halifax,Nova Scotia
+1332,Customer 1332,Corporate,Edmonton,Alberta
+1333,Customer 1333,Corporate,Halifax,Nova Scotia
+1334,Customer 1334,Consumer,Vancouver,British Columbia
+1335,Customer 1335,Corporate,Hamilton,Ontario
+1336,Customer 1336,Consumer,Laval,Quebec
+1337,Customer 1337,Consumer,Laval,Quebec
+1338,Customer 1338,Consumer,Laval,Quebec
+1339,Customer 1339,Consumer,London,Ontario
+1340,Customer 1340,Consumer,Ottawa,Ontario
+1341,Customer 1341,Consumer,Hamilton,Ontario
+1342,Customer 1342,Consumer,Toronto,Ontario
+1343,Customer 1343,Corporate,Ottawa,Ontario
+1344,Customer 1344,Consumer,Laval,Quebec
+1345,Customer 1345,Consumer,Kelowna,British Columbia
+1346,Customer 1346,Small Business,Laval,Quebec
+1347,Customer 1347,Consumer,Quebec City,Quebec
+1348,Customer 1348,Consumer,Hamilton,Ontario
+1349,Customer 1349,Corporate,London,Ontario
+1350,Customer 1350,Consumer,Hamilton,Ontario
+1351,Customer 1351,Corporate,Hamilton,Ontario
+1352,Customer 1352,Consumer,Hamilton,Ontario
+1353,Customer 1353,Small Business,Laval,Quebec
+1354,Customer 1354,Small Business,Toronto,Ontario
+1355,Customer 1355,Consumer,London,Ontario
+1356,Customer 1356,Consumer,Calgary,Alberta
+1357,Customer 1357,Corporate,London,Ontario
+1358,Customer 1358,Corporate,Quebec City,Quebec
+1359,Customer 1359,Small Business,Calgary,Alberta
+1360,Customer 1360,Small Business,Edmonton,Alberta
+1361,Customer 1361,Small Business,Victoria,British Columbia
+1362,Customer 1362,Consumer,Montreal,Quebec
+1363,Customer 1363,Consumer,Toronto,Ontario
+1364,Customer 1364,Consumer,Winnipeg,Manitoba
+1365,Customer 1365,Small Business,Victoria,British Columbia
+1366,Customer 1366,Consumer,Halifax,Nova Scotia
+1367,Customer 1367,Corporate,Hamilton,Ontario
+1368,Customer 1368,Consumer,Toronto,Ontario
+1369,Customer 1369,Small Business,Winnipeg,Manitoba
+1370,Customer 1370,Consumer,Toronto,Ontario
+1371,Customer 1371,Consumer,Halifax,Nova Scotia
+1372,Customer 1372,Consumer,Calgary,Alberta
+1373,Customer 1373,Consumer,Toronto,Ontario
+1374,Customer 1374,Corporate,Victoria,British Columbia
+1375,Customer 1375,Consumer,Hamilton,Ontario
+1376,Customer 1376,Corporate,Edmonton,Alberta
+1377,Customer 1377,Corporate,Kelowna,British Columbia
+1378,Customer 1378,Consumer,Kelowna,British Columbia
+1379,Customer 1379,Consumer,Ottawa,Ontario
+1380,Customer 1380,Corporate,Toronto,Ontario
+1381,Customer 1381,Consumer,Laval,Quebec
+1382,Customer 1382,Consumer,Victoria,British Columbia
+1383,Customer 1383,Corporate,Halifax,Nova Scotia
+1384,Customer 1384,Small Business,Hamilton,Ontario
+1385,Customer 1385,Corporate,Laval,Quebec
+1386,Customer 1386,Corporate,Winnipeg,Manitoba
+1387,Customer 1387,Consumer,London,Ontario
+1388,Customer 1388,Small Business,Kelowna,British Columbia
+1389,Customer 1389,Small Business,Winnipeg,Manitoba
+1390,Customer 1390,Consumer,Vancouver,British Columbia
+1391,Customer 1391,Corporate,Ottawa,Ontario
+1392,Customer 1392,Consumer,Vancouver,British Columbia
+1393,Customer 1393,Corporate,Hamilton,Ontario
+1394,Customer 1394,Corporate,London,Ontario
+1395,Customer 1395,Corporate,Winnipeg,Manitoba
+1396,Customer 1396,Small Business,Kelowna,British Columbia
+1397,Customer 1397,Small Business,Toronto,Ontario
+1398,Customer 1398,Consumer,Victoria,British Columbia
+1399,Customer 1399,Consumer,Montreal,Quebec
+1400,Customer 1400,Corporate,Calgary,Alberta
+1401,Customer 1401,Consumer,Vancouver,British Columbia
+1402,Customer 1402,Small Business,Edmonton,Alberta
+1403,Customer 1403,Small Business,Victoria,British Columbia
+1404,Customer 1404,Consumer,Hamilton,Ontario
+1405,Customer 1405,Consumer,Montreal,Quebec
+1406,Customer 1406,Small Business,Ottawa,Ontario
+1407,Customer 1407,Consumer,Toronto,Ontario
+1408,Customer 1408,Consumer,London,Ontario
+1409,Customer 1409,Consumer,Laval,Quebec
+1410,Customer 1410,Small Business,Hamilton,Ontario
+1411,Customer 1411,Consumer,London,Ontario
+1412,Customer 1412,Corporate,Calgary,Alberta
+1413,Customer 1413,Consumer,Ottawa,Ontario
+1414,Customer 1414,Consumer,Quebec City,Quebec
+1415,Customer 1415,Corporate,Victoria,British Columbia
+1416,Customer 1416,Corporate,Ottawa,Ontario
+1417,Customer 1417,Consumer,Montreal,Quebec
+1418,Customer 1418,Consumer,Ottawa,Ontario
+1419,Customer 1419,Consumer,Winnipeg,Manitoba
+1420,Customer 1420,Consumer,Hamilton,Ontario
+1421,Customer 1421,Corporate,London,Ontario
+1422,Customer 1422,Corporate,Montreal,Quebec
+1423,Customer 1423,Consumer,Vancouver,British Columbia
+1424,Customer 1424,Corporate,Winnipeg,Manitoba
+1425,Customer 1425,Consumer,Quebec City,Quebec
+1426,Customer 1426,Consumer,Regina,Saskatchewan
+1427,Customer 1427,Consumer,Vancouver,British Columbia
+1428,Customer 1428,Consumer,Halifax,Nova Scotia
+1429,Customer 1429,Consumer,Edmonton,Alberta
+1430,Customer 1430,Consumer,Winnipeg,Manitoba
+1431,Customer 1431,Consumer,Hamilton,Ontario
+1432,Customer 1432,Small Business,Winnipeg,Manitoba
+1433,Customer 1433,Small Business,Vancouver,British Columbia
+1434,Customer 1434,Corporate,Hamilton,Ontario
+1435,Customer 1435,Consumer,Ottawa,Ontario
+1436,Customer 1436,Consumer,Hamilton,Ontario
+1437,Customer 1437,Corporate,Laval,Quebec
+1438,Customer 1438,Consumer,London,Ontario
+1439,Customer 1439,Consumer,Montreal,Quebec
+1440,Customer 1440,Consumer,London,Ontario
+1441,Customer 1441,Consumer,Hamilton,Ontario
+1442,Customer 1442,Consumer,Hamilton,Ontario
+1443,Customer 1443,Small Business,London,Ontario
+1444,Customer 1444,Consumer,Winnipeg,Manitoba
+1445,Customer 1445,Corporate,Victoria,British Columbia
+1446,Customer 1446,Corporate,Vancouver,British Columbia
+1447,Customer 1447,Corporate,Regina,Saskatchewan
+1448,Customer 1448,Consumer,Montreal,Quebec
+1449,Customer 1449,Consumer,Halifax,Nova Scotia
+1450,Customer 1450,Corporate,Vancouver,British Columbia
+1451,Customer 1451,Consumer,Montreal,Quebec
+1452,Customer 1452,Consumer,Kelowna,British Columbia
+1453,Customer 1453,Corporate,Montreal,Quebec
+1454,Customer 1454,Small Business,Toronto,Ontario
+1455,Customer 1455,Corporate,Toronto,Ontario
+1456,Customer 1456,Consumer,Halifax,Nova Scotia
+1457,Customer 1457,Small Business,Toronto,Ontario
+1458,Customer 1458,Small Business,Calgary,Alberta
+1459,Customer 1459,Consumer,Laval,Quebec
+1460,Customer 1460,Consumer,Ottawa,Ontario
+1461,Customer 1461,Consumer,Quebec City,Quebec
+1462,Customer 1462,Corporate,London,Ontario
+1463,Customer 1463,Consumer,Vancouver,British Columbia
+1464,Customer 1464,Consumer,Laval,Quebec
+1465,Customer 1465,Corporate,Edmonton,Alberta
+1466,Customer 1466,Corporate,Toronto,Ontario
+1467,Customer 1467,Small Business,Ottawa,Ontario
+1468,Customer 1468,Consumer,Ottawa,Ontario
+1469,Customer 1469,Corporate,Halifax,Nova Scotia
+1470,Customer 1470,Corporate,London,Ontario
+1471,Customer 1471,Consumer,Montreal,Quebec
+1472,Customer 1472,Corporate,Montreal,Quebec
+1473,Customer 1473,Corporate,Ottawa,Ontario
+1474,Customer 1474,Small Business,Toronto,Ontario
+1475,Customer 1475,Consumer,Quebec City,Quebec
+1476,Customer 1476,Consumer,Quebec City,Quebec
+1477,Customer 1477,Consumer,Halifax,Nova Scotia
+1478,Customer 1478,Consumer,Edmonton,Alberta
+1479,Customer 1479,Corporate,Edmonton,Alberta
+1480,Customer 1480,Consumer,Toronto,Ontario
+1481,Customer 1481,Consumer,Quebec City,Quebec
+1482,Customer 1482,Corporate,London,Ontario
+1483,Customer 1483,Consumer,Calgary,Alberta
+1484,Customer 1484,Corporate,Hamilton,Ontario
+1485,Customer 1485,Consumer,Laval,Quebec
+1486,Customer 1486,Consumer,Toronto,Ontario
+1487,Customer 1487,Consumer,London,Ontario
+1488,Customer 1488,Small Business,Halifax,Nova Scotia
+1489,Customer 1489,Consumer,Quebec City,Quebec
+1490,Customer 1490,Consumer,Montreal,Quebec
+1491,Customer 1491,Consumer,Edmonton,Alberta
+1492,Customer 1492,Consumer,Montreal,Quebec
+1493,Customer 1493,Consumer,Calgary,Alberta
+1494,Customer 1494,Corporate,Edmonton,Alberta
+1495,Customer 1495,Consumer,Hamilton,Ontario
+1496,Customer 1496,Corporate,Laval,Quebec
+1497,Customer 1497,Consumer,London,Ontario
+1498,Customer 1498,Corporate,Laval,Quebec
+1499,Customer 1499,Consumer,Toronto,Ontario
+1500,Customer 1500,Consumer,Calgary,Alberta
+1501,Customer 1501,Small Business,London,Ontario
+1502,Customer 1502,Consumer,Montreal,Quebec
+1503,Customer 1503,Small Business,Laval,Quebec
+1504,Customer 1504,Consumer,Calgary,Alberta
+1505,Customer 1505,Corporate,Calgary,Alberta
+1506,Customer 1506,Small Business,Ottawa,Ontario
+1507,Customer 1507,Consumer,Calgary,Alberta
+1508,Customer 1508,Corporate,Ottawa,Ontario
+1509,Customer 1509,Corporate,Victoria,British Columbia
+1510,Customer 1510,Consumer,Hamilton,Ontario
+1511,Customer 1511,Corporate,London,Ontario
+1512,Customer 1512,Small Business,Halifax,Nova Scotia
+1513,Customer 1513,Small Business,Winnipeg,Manitoba
+1514,Customer 1514,Corporate,Quebec City,Quebec
+1515,Customer 1515,Consumer,Toronto,Ontario
+1516,Customer 1516,Consumer,Toronto,Ontario
+1517,Customer 1517,Consumer,Ottawa,Ontario
+1518,Customer 1518,Corporate,Toronto,Ontario
+1519,Customer 1519,Consumer,London,Ontario
+1520,Customer 1520,Corporate,London,Ontario
+1521,Customer 1521,Consumer,London,Ontario
+1522,Customer 1522,Corporate,Toronto,Ontario
+1523,Customer 1523,Corporate,Winnipeg,Manitoba
+1524,Customer 1524,Small Business,Kelowna,British Columbia
+1525,Customer 1525,Small Business,Calgary,Alberta
+1526,Customer 1526,Consumer,Victoria,British Columbia
+1527,Customer 1527,Small Business,Toronto,Ontario
+1528,Customer 1528,Small Business,Vancouver,British Columbia
+1529,Customer 1529,Consumer,Winnipeg,Manitoba
+1530,Customer 1530,Consumer,Halifax,Nova Scotia
+1531,Customer 1531,Consumer,Quebec City,Quebec
+1532,Customer 1532,Consumer,Winnipeg,Manitoba
+1533,Customer 1533,Corporate,Edmonton,Alberta
+1534,Customer 1534,Consumer,London,Ontario
+1535,Customer 1535,Consumer,Quebec City,Quebec
+1536,Customer 1536,Consumer,Ottawa,Ontario
+1537,Customer 1537,Consumer,London,Ontario
+1538,Customer 1538,Corporate,Montreal,Quebec
+1539,Customer 1539,Consumer,Kelowna,British Columbia
+1540,Customer 1540,Consumer,Hamilton,Ontario
+1541,Customer 1541,Consumer,Ottawa,Ontario
+1542,Customer 1542,Consumer,Quebec City,Quebec
+1543,Customer 1543,Corporate,Toronto,Ontario
+1544,Customer 1544,Consumer,Kelowna,British Columbia
+1545,Customer 1545,Consumer,Ottawa,Ontario
+1546,Customer 1546,Consumer,Laval,Quebec
+1547,Customer 1547,Corporate,Edmonton,Alberta
+1548,Customer 1548,Small Business,Halifax,Nova Scotia
+1549,Customer 1549,Consumer,London,Ontario
+1550,Customer 1550,Corporate,London,Ontario
+1551,Customer 1551,Consumer,Ottawa,Ontario
+1552,Customer 1552,Consumer,Ottawa,Ontario
+1553,Customer 1553,Consumer,Toronto,Ontario
+1554,Customer 1554,Corporate,Kelowna,British Columbia
+1555,Customer 1555,Small Business,Laval,Quebec
+1556,Customer 1556,Consumer,Ottawa,Ontario
+1557,Customer 1557,Consumer,Hamilton,Ontario
+1558,Customer 1558,Consumer,London,Ontario
+1559,Customer 1559,Consumer,Calgary,Alberta
+1560,Customer 1560,Small Business,Ottawa,Ontario
+1561,Customer 1561,Corporate,Ottawa,Ontario
+1562,Customer 1562,Corporate,Victoria,British Columbia
+1563,Customer 1563,Corporate,Hamilton,Ontario
+1564,Customer 1564,Corporate,Kelowna,British Columbia
+1565,Customer 1565,Corporate,Toronto,Ontario
+1566,Customer 1566,Small Business,Kelowna,British Columbia
+1567,Customer 1567,Small Business,London,Ontario
+1568,Customer 1568,Corporate,Toronto,Ontario
+1569,Customer 1569,Corporate,Vancouver,British Columbia
+1570,Customer 1570,Consumer,Hamilton,Ontario
+1571,Customer 1571,Small Business,Calgary,Alberta
+1572,Customer 1572,Consumer,Winnipeg,Manitoba
+1573,Customer 1573,Corporate,Hamilton,Ontario
+1574,Customer 1574,Small Business,Montreal,Quebec
+1575,Customer 1575,Consumer,Kelowna,British Columbia
+1576,Customer 1576,Consumer,Ottawa,Ontario
+1577,Customer 1577,Consumer,Quebec City,Quebec
+1578,Customer 1578,Small Business,Hamilton,Ontario
+1579,Customer 1579,Consumer,Ottawa,Ontario
+1580,Customer 1580,Consumer,London,Ontario
+1581,Customer 1581,Consumer,Vancouver,British Columbia
+1582,Customer 1582,Small Business,Vancouver,British Columbia
+1583,Customer 1583,Corporate,Victoria,British Columbia
+1584,Customer 1584,Corporate,Winnipeg,Manitoba
+1585,Customer 1585,Corporate,Halifax,Nova Scotia
+1586,Customer 1586,Corporate,Toronto,Ontario
+1587,Customer 1587,Small Business,Vancouver,British Columbia
+1588,Customer 1588,Consumer,Hamilton,Ontario
+1589,Customer 1589,Small Business,London,Ontario
+1590,Customer 1590,Consumer,Calgary,Alberta
+1591,Customer 1591,Consumer,Quebec City,Quebec
+1592,Customer 1592,Small Business,Quebec City,Quebec
+1593,Customer 1593,Consumer,Hamilton,Ontario
+1594,Customer 1594,Consumer,Edmonton,Alberta
+1595,Customer 1595,Consumer,Winnipeg,Manitoba
+1596,Customer 1596,Small Business,Vancouver,British Columbia
+1597,Customer 1597,Small Business,Kelowna,British Columbia
+1598,Customer 1598,Corporate,London,Ontario
+1599,Customer 1599,Small Business,Toronto,Ontario
+1600,Customer 1600,Small Business,Laval,Quebec
+1601,Customer 1601,Consumer,Calgary,Alberta
+1602,Customer 1602,Corporate,Toronto,Ontario
+1603,Customer 1603,Corporate,London,Ontario
+1604,Customer 1604,Small Business,Halifax,Nova Scotia
+1605,Customer 1605,Corporate,London,Ontario
+1606,Customer 1606,Consumer,Victoria,British Columbia
+1607,Customer 1607,Corporate,Quebec City,Quebec
+1608,Customer 1608,Corporate,Winnipeg,Manitoba
+1609,Customer 1609,Consumer,Toronto,Ontario
+1610,Customer 1610,Consumer,Vancouver,British Columbia
+1611,Customer 1611,Consumer,Halifax,Nova Scotia
+1612,Customer 1612,Small Business,Vancouver,British Columbia
+1613,Customer 1613,Consumer,Toronto,Ontario
+1614,Customer 1614,Consumer,Saskatoon,Saskatchewan
+1615,Customer 1615,Corporate,Edmonton,Alberta
+1616,Customer 1616,Corporate,Vancouver,British Columbia
+1617,Customer 1617,Consumer,Toronto,Ontario
+1618,Customer 1618,Consumer,Edmonton,Alberta
+1619,Customer 1619,Small Business,Winnipeg,Manitoba
+1620,Customer 1620,Consumer,Kelowna,British Columbia
+1621,Customer 1621,Small Business,Quebec City,Quebec
+1622,Customer 1622,Consumer,Regina,Saskatchewan
+1623,Customer 1623,Consumer,London,Ontario
+1624,Customer 1624,Consumer,Toronto,Ontario
+1625,Customer 1625,Consumer,Regina,Saskatchewan
+1626,Customer 1626,Corporate,Kelowna,British Columbia
+1627,Customer 1627,Corporate,Ottawa,Ontario
+1628,Customer 1628,Consumer,Laval,Quebec
+1629,Customer 1629,Consumer,Saskatoon,Saskatchewan
+1630,Customer 1630,Corporate,Halifax,Nova Scotia
+1631,Customer 1631,Small Business,Ottawa,Ontario
+1632,Customer 1632,Consumer,Hamilton,Ontario
+1633,Customer 1633,Corporate,Hamilton,Ontario
+1634,Customer 1634,Consumer,London,Ontario
+1635,Customer 1635,Consumer,Hamilton,Ontario
+1636,Customer 1636,Consumer,Toronto,Ontario
+1637,Customer 1637,Corporate,Edmonton,Alberta
+1638,Customer 1638,Small Business,Montreal,Quebec
+1639,Customer 1639,Consumer,Toronto,Ontario
+1640,Customer 1640,Corporate,Edmonton,Alberta
+1641,Customer 1641,Consumer,Quebec City,Quebec
+1642,Customer 1642,Consumer,Hamilton,Ontario
+1643,Customer 1643,Corporate,Vancouver,British Columbia
+1644,Customer 1644,Consumer,Hamilton,Ontario
+1645,Customer 1645,Consumer,London,Ontario
+1646,Customer 1646,Consumer,Calgary,Alberta
+1647,Customer 1647,Corporate,Toronto,Ontario
+1648,Customer 1648,Consumer,Kelowna,British Columbia
+1649,Customer 1649,Small Business,Quebec City,Quebec
+1650,Customer 1650,Consumer,Saskatoon,Saskatchewan
+1651,Customer 1651,Consumer,London,Ontario
+1652,Customer 1652,Consumer,Saskatoon,Saskatchewan
+1653,Customer 1653,Consumer,Kelowna,British Columbia
+1654,Customer 1654,Consumer,Regina,Saskatchewan
+1655,Customer 1655,Consumer,Hamilton,Ontario
+1656,Customer 1656,Consumer,London,Ontario
+1657,Customer 1657,Corporate,Ottawa,Ontario
+1658,Customer 1658,Corporate,Saskatoon,Saskatchewan
+1659,Customer 1659,Consumer,Ottawa,Ontario
+1660,Customer 1660,Small Business,London,Ontario
+1661,Customer 1661,Consumer,Laval,Quebec
+1662,Customer 1662,Corporate,Winnipeg,Manitoba
+1663,Customer 1663,Consumer,Laval,Quebec
+1664,Customer 1664,Consumer,London,Ontario
+1665,Customer 1665,Corporate,Ottawa,Ontario
+1666,Customer 1666,Consumer,Victoria,British Columbia
+1667,Customer 1667,Small Business,Laval,Quebec
+1668,Customer 1668,Corporate,London,Ontario
+1669,Customer 1669,Small Business,London,Ontario
+1670,Customer 1670,Corporate,Montreal,Quebec
+1671,Customer 1671,Corporate,Ottawa,Ontario
+1672,Customer 1672,Consumer,Vancouver,British Columbia
+1673,Customer 1673,Small Business,Edmonton,Alberta
+1674,Customer 1674,Small Business,London,Ontario
+1675,Customer 1675,Consumer,Edmonton,Alberta
+1676,Customer 1676,Consumer,Laval,Quebec
+1677,Customer 1677,Consumer,Ottawa,Ontario
+1678,Customer 1678,Consumer,Quebec City,Quebec
+1679,Customer 1679,Consumer,Hamilton,Ontario
+1680,Customer 1680,Consumer,Toronto,Ontario
+1681,Customer 1681,Consumer,Edmonton,Alberta
+1682,Customer 1682,Corporate,Laval,Quebec
+1683,Customer 1683,Consumer,Saskatoon,Saskatchewan
+1684,Customer 1684,Consumer,Hamilton,Ontario
+1685,Customer 1685,Small Business,Ottawa,Ontario
+1686,Customer 1686,Consumer,Montreal,Quebec
+1687,Customer 1687,Consumer,Edmonton,Alberta
+1688,Customer 1688,Corporate,Calgary,Alberta
+1689,Customer 1689,Consumer,Hamilton,Ontario
+1690,Customer 1690,Corporate,Ottawa,Ontario
+1691,Customer 1691,Corporate,Hamilton,Ontario
+1692,Customer 1692,Consumer,Laval,Quebec
+1693,Customer 1693,Corporate,Hamilton,Ontario
+1694,Customer 1694,Corporate,Toronto,Ontario
+1695,Customer 1695,Consumer,Calgary,Alberta
+1696,Customer 1696,Small Business,Toronto,Ontario
+1697,Customer 1697,Consumer,Halifax,Nova Scotia
+1698,Customer 1698,Small Business,Montreal,Quebec
+1699,Customer 1699,Corporate,Ottawa,Ontario
+1700,Customer 1700,Consumer,Kelowna,British Columbia
+1701,Customer 1701,Small Business,Ottawa,Ontario
+1702,Customer 1702,Corporate,Quebec City,Quebec
+1703,Customer 1703,Consumer,Quebec City,Quebec
+1704,Customer 1704,Small Business,London,Ontario
+1705,Customer 1705,Corporate,Winnipeg,Manitoba
+1706,Customer 1706,Consumer,Ottawa,Ontario
+1707,Customer 1707,Corporate,Vancouver,British Columbia
+1708,Customer 1708,Corporate,Hamilton,Ontario
+1709,Customer 1709,Corporate,Quebec City,Quebec
+1710,Customer 1710,Small Business,Calgary,Alberta
+1711,Customer 1711,Small Business,Toronto,Ontario
+1712,Customer 1712,Consumer,Quebec City,Quebec
+1713,Customer 1713,Corporate,Laval,Quebec
+1714,Customer 1714,Consumer,Hamilton,Ontario
+1715,Customer 1715,Consumer,Quebec City,Quebec
+1716,Customer 1716,Consumer,Saskatoon,Saskatchewan
+1717,Customer 1717,Consumer,Calgary,Alberta
+1718,Customer 1718,Small Business,Montreal,Quebec
+1719,Customer 1719,Corporate,Hamilton,Ontario
+1720,Customer 1720,Consumer,Toronto,Ontario
+1721,Customer 1721,Corporate,Winnipeg,Manitoba
+1722,Customer 1722,Consumer,Kelowna,British Columbia
+1723,Customer 1723,Small Business,Calgary,Alberta
+1724,Customer 1724,Consumer,Laval,Quebec
+1725,Customer 1725,Consumer,London,Ontario
+1726,Customer 1726,Consumer,Montreal,Quebec
+1727,Customer 1727,Consumer,Laval,Quebec
+1728,Customer 1728,Consumer,Toronto,Ontario
+1729,Customer 1729,Consumer,Montreal,Quebec
+1730,Customer 1730,Consumer,Vancouver,British Columbia
+1731,Customer 1731,Consumer,London,Ontario
+1732,Customer 1732,Consumer,London,Ontario
+1733,Customer 1733,Consumer,Ottawa,Ontario
+1734,Customer 1734,Corporate,Kelowna,British Columbia
+1735,Customer 1735,Consumer,Montreal,Quebec
+1736,Customer 1736,Consumer,Vancouver,British Columbia
+1737,Customer 1737,Corporate,Montreal,Quebec
+1738,Customer 1738,Small Business,Quebec City,Quebec
+1739,Customer 1739,Consumer,Toronto,Ontario
+1740,Customer 1740,Corporate,Quebec City,Quebec
+1741,Customer 1741,Small Business,Saskatoon,Saskatchewan
+1742,Customer 1742,Corporate,Edmonton,Alberta
+1743,Customer 1743,Small Business,Vancouver,British Columbia
+1744,Customer 1744,Small Business,Calgary,Alberta
+1745,Customer 1745,Consumer,London,Ontario
+1746,Customer 1746,Small Business,Calgary,Alberta
+1747,Customer 1747,Consumer,Edmonton,Alberta
+1748,Customer 1748,Corporate,Kelowna,British Columbia
+1749,Customer 1749,Consumer,Halifax,Nova Scotia
+1750,Customer 1750,Consumer,London,Ontario
+1751,Customer 1751,Consumer,Ottawa,Ontario
+1752,Customer 1752,Small Business,Halifax,Nova Scotia
+1753,Customer 1753,Consumer,Laval,Quebec
+1754,Customer 1754,Consumer,Halifax,Nova Scotia
+1755,Customer 1755,Corporate,Montreal,Quebec
+1756,Customer 1756,Small Business,Quebec City,Quebec
+1757,Customer 1757,Consumer,Calgary,Alberta
+1758,Customer 1758,Corporate,Montreal,Quebec
+1759,Customer 1759,Corporate,Hamilton,Ontario
+1760,Customer 1760,Small Business,Quebec City,Quebec
+1761,Customer 1761,Consumer,London,Ontario
+1762,Customer 1762,Corporate,Winnipeg,Manitoba
+1763,Customer 1763,Consumer,Edmonton,Alberta
+1764,Customer 1764,Small Business,Hamilton,Ontario
+1765,Customer 1765,Consumer,Hamilton,Ontario
+1766,Customer 1766,Consumer,Calgary,Alberta
+1767,Customer 1767,Small Business,Hamilton,Ontario
+1768,Customer 1768,Small Business,Ottawa,Ontario
+1769,Customer 1769,Consumer,Ottawa,Ontario
+1770,Customer 1770,Consumer,Halifax,Nova Scotia
+1771,Customer 1771,Consumer,Montreal,Quebec
+1772,Customer 1772,Consumer,Toronto,Ontario
+1773,Customer 1773,Consumer,Hamilton,Ontario
+1774,Customer 1774,Small Business,Hamilton,Ontario
+1775,Customer 1775,Consumer,Montreal,Quebec
+1776,Customer 1776,Corporate,Hamilton,Ontario
+1777,Customer 1777,Corporate,Victoria,British Columbia
+1778,Customer 1778,Small Business,Regina,Saskatchewan
+1779,Customer 1779,Small Business,Kelowna,British Columbia
+1780,Customer 1780,Corporate,London,Ontario
+1781,Customer 1781,Consumer,London,Ontario
+1782,Customer 1782,Consumer,Hamilton,Ontario
+1783,Customer 1783,Corporate,Quebec City,Quebec
+1784,Customer 1784,Consumer,Hamilton,Ontario
+1785,Customer 1785,Consumer,Ottawa,Ontario
+1786,Customer 1786,Consumer,Calgary,Alberta
+1787,Customer 1787,Corporate,Quebec City,Quebec
+1788,Customer 1788,Consumer,Victoria,British Columbia
+1789,Customer 1789,Consumer,Montreal,Quebec
+1790,Customer 1790,Consumer,Toronto,Ontario
+1791,Customer 1791,Consumer,Vancouver,British Columbia
+1792,Customer 1792,Corporate,Quebec City,Quebec
+1793,Customer 1793,Corporate,Toronto,Ontario
+1794,Customer 1794,Small Business,Calgary,Alberta
+1795,Customer 1795,Corporate,Saskatoon,Saskatchewan
+1796,Customer 1796,Small Business,Edmonton,Alberta
+1797,Customer 1797,Corporate,Winnipeg,Manitoba
+1798,Customer 1798,Consumer,Laval,Quebec
+1799,Customer 1799,Corporate,London,Ontario
+1800,Customer 1800,Corporate,Calgary,Alberta
+1801,Customer 1801,Corporate,Vancouver,British Columbia
+1802,Customer 1802,Consumer,Toronto,Ontario
+1803,Customer 1803,Corporate,Regina,Saskatchewan
+1804,Customer 1804,Small Business,Halifax,Nova Scotia
+1805,Customer 1805,Consumer,Ottawa,Ontario
+1806,Customer 1806,Corporate,Quebec City,Quebec
+1807,Customer 1807,Consumer,Montreal,Quebec
+1808,Customer 1808,Consumer,Quebec City,Quebec
+1809,Customer 1809,Small Business,London,Ontario
+1810,Customer 1810,Consumer,Hamilton,Ontario
+1811,Customer 1811,Consumer,Halifax,Nova Scotia
+1812,Customer 1812,Consumer,Kelowna,British Columbia
+1813,Customer 1813,Corporate,Saskatoon,Saskatchewan
+1814,Customer 1814,Consumer,Victoria,British Columbia
+1815,Customer 1815,Corporate,Toronto,Ontario
+1816,Customer 1816,Consumer,Edmonton,Alberta
+1817,Customer 1817,Consumer,Hamilton,Ontario
+1818,Customer 1818,Consumer,Regina,Saskatchewan
+1819,Customer 1819,Small Business,Laval,Quebec
+1820,Customer 1820,Consumer,Montreal,Quebec
+1821,Customer 1821,Consumer,Vancouver,British Columbia
+1822,Customer 1822,Corporate,London,Ontario
+1823,Customer 1823,Corporate,Quebec City,Quebec
+1824,Customer 1824,Consumer,Toronto,Ontario
+1825,Customer 1825,Small Business,Toronto,Ontario
+1826,Customer 1826,Consumer,Laval,Quebec
+1827,Customer 1827,Small Business,Laval,Quebec
+1828,Customer 1828,Consumer,Toronto,Ontario
+1829,Customer 1829,Consumer,Toronto,Ontario
+1830,Customer 1830,Corporate,Hamilton,Ontario
+1831,Customer 1831,Corporate,Hamilton,Ontario
+1832,Customer 1832,Consumer,Vancouver,British Columbia
+1833,Customer 1833,Small Business,Quebec City,Quebec
+1834,Customer 1834,Consumer,London,Ontario
+1835,Customer 1835,Corporate,Toronto,Ontario
+1836,Customer 1836,Consumer,Montreal,Quebec
+1837,Customer 1837,Consumer,Laval,Quebec
+1838,Customer 1838,Consumer,Montreal,Quebec
+1839,Customer 1839,Corporate,Montreal,Quebec
+1840,Customer 1840,Consumer,London,Ontario
+1841,Customer 1841,Corporate,Montreal,Quebec
+1842,Customer 1842,Corporate,Ottawa,Ontario
+1843,Customer 1843,Corporate,Victoria,British Columbia
+1844,Customer 1844,Consumer,London,Ontario
+1845,Customer 1845,Consumer,Vancouver,British Columbia
+1846,Customer 1846,Consumer,Calgary,Alberta
+1847,Customer 1847,Small Business,Hamilton,Ontario
+1848,Customer 1848,Consumer,Toronto,Ontario
+1849,Customer 1849,Corporate,Kelowna,British Columbia
+1850,Customer 1850,Consumer,Kelowna,British Columbia
+1851,Customer 1851,Consumer,Calgary,Alberta
+1852,Customer 1852,Consumer,London,Ontario
+1853,Customer 1853,Corporate,Laval,Quebec
+1854,Customer 1854,Consumer,Laval,Quebec
+1855,Customer 1855,Small Business,Hamilton,Ontario
+1856,Customer 1856,Small Business,Victoria,British Columbia
+1857,Customer 1857,Consumer,Montreal,Quebec
+1858,Customer 1858,Small Business,Edmonton,Alberta
+1859,Customer 1859,Consumer,Ottawa,Ontario
+1860,Customer 1860,Consumer,Quebec City,Quebec
+1861,Customer 1861,Corporate,Hamilton,Ontario
+1862,Customer 1862,Consumer,Montreal,Quebec
+1863,Customer 1863,Corporate,Montreal,Quebec
+1864,Customer 1864,Corporate,Toronto,Ontario
+1865,Customer 1865,Small Business,Halifax,Nova Scotia
+1866,Customer 1866,Consumer,Calgary,Alberta
+1867,Customer 1867,Small Business,Calgary,Alberta
+1868,Customer 1868,Small Business,Quebec City,Quebec
+1869,Customer 1869,Corporate,Ottawa,Ontario
+1870,Customer 1870,Corporate,Kelowna,British Columbia
+1871,Customer 1871,Corporate,Saskatoon,Saskatchewan
+1872,Customer 1872,Consumer,Calgary,Alberta
+1873,Customer 1873,Consumer,London,Ontario
+1874,Customer 1874,Consumer,Calgary,Alberta
+1875,Customer 1875,Consumer,Quebec City,Quebec
+1876,Customer 1876,Consumer,Hamilton,Ontario
+1877,Customer 1877,Consumer,London,Ontario
+1878,Customer 1878,Consumer,Winnipeg,Manitoba
+1879,Customer 1879,Consumer,Laval,Quebec
+1880,Customer 1880,Corporate,Calgary,Alberta
+1881,Customer 1881,Consumer,Laval,Quebec
+1882,Customer 1882,Consumer,Toronto,Ontario
+1883,Customer 1883,Consumer,Kelowna,British Columbia
+1884,Customer 1884,Small Business,Ottawa,Ontario
+1885,Customer 1885,Corporate,Toronto,Ontario
+1886,Customer 1886,Small Business,Victoria,British Columbia
+1887,Customer 1887,Consumer,Victoria,British Columbia
+1888,Customer 1888,Consumer,Toronto,Ontario
+1889,Customer 1889,Corporate,Hamilton,Ontario
+1890,Customer 1890,Consumer,Edmonton,Alberta
+1891,Customer 1891,Consumer,Vancouver,British Columbia
+1892,Customer 1892,Consumer,Ottawa,Ontario
+1893,Customer 1893,Consumer,Calgary,Alberta
+1894,Customer 1894,Consumer,Montreal,Quebec
+1895,Customer 1895,Small Business,Edmonton,Alberta
+1896,Customer 1896,Corporate,Calgary,Alberta
+1897,Customer 1897,Small Business,Toronto,Ontario
+1898,Customer 1898,Corporate,Laval,Quebec
+1899,Customer 1899,Consumer,Edmonton,Alberta
+1900,Customer 1900,Small Business,Halifax,Nova Scotia
+1901,Customer 1901,Corporate,Victoria,British Columbia
+1902,Customer 1902,Small Business,Victoria,British Columbia
+1903,Customer 1903,Corporate,Halifax,Nova Scotia
+1904,Customer 1904,Consumer,London,Ontario
+1905,Customer 1905,Small Business,Vancouver,British Columbia
+1906,Customer 1906,Consumer,Kelowna,British Columbia
+1907,Customer 1907,Consumer,Quebec City,Quebec
+1908,Customer 1908,Consumer,Laval,Quebec
+1909,Customer 1909,Consumer,Quebec City,Quebec
+1910,Customer 1910,Consumer,Toronto,Ontario
+1911,Customer 1911,Corporate,Montreal,Quebec
+1912,Customer 1912,Small Business,London,Ontario
+1913,Customer 1913,Small Business,Vancouver,British Columbia
+1914,Customer 1914,Corporate,Winnipeg,Manitoba
+1915,Customer 1915,Small Business,London,Ontario
+1916,Customer 1916,Small Business,Winnipeg,Manitoba
+1917,Customer 1917,Corporate,Ottawa,Ontario
+1918,Customer 1918,Consumer,Ottawa,Ontario
+1919,Customer 1919,Consumer,Toronto,Ontario
+1920,Customer 1920,Consumer,Montreal,Quebec
+1921,Customer 1921,Corporate,Calgary,Alberta
+1922,Customer 1922,Small Business,Laval,Quebec
+1923,Customer 1923,Corporate,London,Ontario
+1924,Customer 1924,Corporate,Ottawa,Ontario
+1925,Customer 1925,Small Business,Kelowna,British Columbia
+1926,Customer 1926,Corporate,Laval,Quebec
+1927,Customer 1927,Consumer,Kelowna,British Columbia
+1928,Customer 1928,Small Business,Hamilton,Ontario
+1929,Customer 1929,Corporate,Quebec City,Quebec
+1930,Customer 1930,Small Business,London,Ontario
+1931,Customer 1931,Small Business,Toronto,Ontario
+1932,Customer 1932,Consumer,Hamilton,Ontario
+1933,Customer 1933,Small Business,Quebec City,Quebec
+1934,Customer 1934,Consumer,Quebec City,Quebec
+1935,Customer 1935,Consumer,Ottawa,Ontario
+1936,Customer 1936,Corporate,Laval,Quebec
+1937,Customer 1937,Consumer,Toronto,Ontario
+1938,Customer 1938,Consumer,Laval,Quebec
+1939,Customer 1939,Corporate,Calgary,Alberta
+1940,Customer 1940,Corporate,Kelowna,British Columbia
+1941,Customer 1941,Consumer,Quebec City,Quebec
+1942,Customer 1942,Consumer,Toronto,Ontario
+1943,Customer 1943,Corporate,London,Ontario
+1944,Customer 1944,Corporate,Calgary,Alberta
+1945,Customer 1945,Consumer,London,Ontario
+1946,Customer 1946,Consumer,Vancouver,British Columbia
+1947,Customer 1947,Corporate,Toronto,Ontario
+1948,Customer 1948,Small Business,Ottawa,Ontario
+1949,Customer 1949,Corporate,Calgary,Alberta
+1950,Customer 1950,Corporate,Victoria,British Columbia
+1951,Customer 1951,Consumer,Hamilton,Ontario
+1952,Customer 1952,Consumer,Winnipeg,Manitoba
+1953,Customer 1953,Consumer,Calgary,Alberta
+1954,Customer 1954,Consumer,Montreal,Quebec
+1955,Customer 1955,Corporate,Toronto,Ontario
+1956,Customer 1956,Consumer,London,Ontario
+1957,Customer 1957,Corporate,Toronto,Ontario
+1958,Customer 1958,Corporate,Kelowna,British Columbia
+1959,Customer 1959,Consumer,London,Ontario
+1960,Customer 1960,Consumer,Calgary,Alberta
+1961,Customer 1961,Small Business,Regina,Saskatchewan
+1962,Customer 1962,Small Business,Vancouver,British Columbia
+1963,Customer 1963,Consumer,London,Ontario
+1964,Customer 1964,Consumer,Hamilton,Ontario
+1965,Customer 1965,Corporate,Ottawa,Ontario
+1966,Customer 1966,Consumer,Laval,Quebec
+1967,Customer 1967,Consumer,Toronto,Ontario
+1968,Customer 1968,Small Business,Hamilton,Ontario
+1969,Customer 1969,Consumer,Hamilton,Ontario
+1970,Customer 1970,Corporate,Kelowna,British Columbia
+1971,Customer 1971,Consumer,Vancouver,British Columbia
+1972,Customer 1972,Small Business,Laval,Quebec
+1973,Customer 1973,Small Business,Toronto,Ontario
+1974,Customer 1974,Corporate,Vancouver,British Columbia
+1975,Customer 1975,Small Business,Halifax,Nova Scotia
+1976,Customer 1976,Small Business,Winnipeg,Manitoba
+1977,Customer 1977,Corporate,Regina,Saskatchewan
+1978,Customer 1978,Corporate,Winnipeg,Manitoba
+1979,Customer 1979,Small Business,Victoria,British Columbia
+1980,Customer 1980,Corporate,Toronto,Ontario
+1981,Customer 1981,Corporate,Saskatoon,Saskatchewan
+1982,Customer 1982,Consumer,Toronto,Ontario
+1983,Customer 1983,Corporate,Laval,Quebec
+1984,Customer 1984,Consumer,Halifax,Nova Scotia
+1985,Customer 1985,Consumer,Regina,Saskatchewan
+1986,Customer 1986,Consumer,London,Ontario
+1987,Customer 1987,Consumer,Halifax,Nova Scotia
+1988,Customer 1988,Consumer,Toronto,Ontario
+1989,Customer 1989,Consumer,Toronto,Ontario
+1990,Customer 1990,Corporate,London,Ontario
+1991,Customer 1991,Small Business,Vancouver,British Columbia
+1992,Customer 1992,Corporate,Ottawa,Ontario
+1993,Customer 1993,Consumer,Quebec City,Quebec
+1994,Customer 1994,Corporate,Montreal,Quebec
+1995,Customer 1995,Consumer,London,Ontario
+1996,Customer 1996,Consumer,Victoria,British Columbia
+1997,Customer 1997,Consumer,Kelowna,British Columbia
+1998,Customer 1998,Small Business,London,Ontario
+1999,Customer 1999,Consumer,London,Ontario
+2000,Customer 2000,Consumer,Calgary,Alberta
+2001,Customer 2001,Small Business,Vancouver,British Columbia
+2002,Customer 2002,Consumer,Saskatoon,Saskatchewan
+2003,Customer 2003,Consumer,Hamilton,Ontario
+2004,Customer 2004,Corporate,Saskatoon,Saskatchewan
+2005,Customer 2005,Corporate,Halifax,Nova Scotia
+2006,Customer 2006,Consumer,Halifax,Nova Scotia
+2007,Customer 2007,Corporate,Laval,Quebec
+2008,Customer 2008,Corporate,Edmonton,Alberta
+2009,Customer 2009,Small Business,Montreal,Quebec
+2010,Customer 2010,Corporate,Calgary,Alberta
+2011,Customer 2011,Consumer,London,Ontario
+2012,Customer 2012,Consumer,Calgary,Alberta
+2013,Customer 2013,Consumer,Toronto,Ontario
+2014,Customer 2014,Consumer,London,Ontario
+2015,Customer 2015,Consumer,Laval,Quebec
+2016,Customer 2016,Consumer,London,Ontario
+2017,Customer 2017,Corporate,London,Ontario
+2018,Customer 2018,Small Business,Victoria,British Columbia
+2019,Customer 2019,Small Business,Kelowna,British Columbia
+2020,Customer 2020,Consumer,Calgary,Alberta
+2021,Customer 2021,Consumer,Winnipeg,Manitoba
+2022,Customer 2022,Consumer,London,Ontario
+2023,Customer 2023,Small Business,Calgary,Alberta
+2024,Customer 2024,Corporate,Hamilton,Ontario
+2025,Customer 2025,Small Business,Kelowna,British Columbia
+2026,Customer 2026,Small Business,Hamilton,Ontario
+2027,Customer 2027,Consumer,Hamilton,Ontario
+2028,Customer 2028,Consumer,Calgary,Alberta
+2029,Customer 2029,Consumer,Kelowna,British Columbia
+2030,Customer 2030,Small Business,Toronto,Ontario
+2031,Customer 2031,Corporate,Calgary,Alberta
+2032,Customer 2032,Consumer,Ottawa,Ontario
+2033,Customer 2033,Corporate,Laval,Quebec
+2034,Customer 2034,Consumer,Calgary,Alberta
+2035,Customer 2035,Consumer,London,Ontario
+2036,Customer 2036,Small Business,Ottawa,Ontario
+2037,Customer 2037,Corporate,Hamilton,Ontario
+2038,Customer 2038,Small Business,Victoria,British Columbia
+2039,Customer 2039,Consumer,Toronto,Ontario
+2040,Customer 2040,Small Business,Victoria,British Columbia
+2041,Customer 2041,Consumer,Edmonton,Alberta
+2042,Customer 2042,Consumer,Toronto,Ontario
+2043,Customer 2043,Small Business,Toronto,Ontario
+2044,Customer 2044,Consumer,Hamilton,Ontario
+2045,Customer 2045,Consumer,Quebec City,Quebec
+2046,Customer 2046,Consumer,Montreal,Quebec
+2047,Customer 2047,Small Business,Kelowna,British Columbia
+2048,Customer 2048,Corporate,Quebec City,Quebec
+2049,Customer 2049,Small Business,Winnipeg,Manitoba
+2050,Customer 2050,Corporate,Calgary,Alberta
+2051,Customer 2051,Small Business,London,Ontario
+2052,Customer 2052,Small Business,Laval,Quebec
+2053,Customer 2053,Consumer,Vancouver,British Columbia
+2054,Customer 2054,Small Business,Montreal,Quebec
+2055,Customer 2055,Small Business,London,Ontario
+2056,Customer 2056,Consumer,Toronto,Ontario
+2057,Customer 2057,Corporate,Edmonton,Alberta
+2058,Customer 2058,Consumer,Toronto,Ontario
+2059,Customer 2059,Consumer,Quebec City,Quebec
+2060,Customer 2060,Consumer,Regina,Saskatchewan
+2061,Customer 2061,Consumer,Victoria,British Columbia
+2062,Customer 2062,Consumer,Toronto,Ontario
+2063,Customer 2063,Consumer,Calgary,Alberta
+2064,Customer 2064,Small Business,Kelowna,British Columbia
+2065,Customer 2065,Consumer,Calgary,Alberta
+2066,Customer 2066,Consumer,Toronto,Ontario
+2067,Customer 2067,Small Business,Halifax,Nova Scotia
+2068,Customer 2068,Consumer,Victoria,British Columbia
+2069,Customer 2069,Consumer,Ottawa,Ontario
+2070,Customer 2070,Consumer,Toronto,Ontario
+2071,Customer 2071,Corporate,Hamilton,Ontario
+2072,Customer 2072,Corporate,London,Ontario
+2073,Customer 2073,Consumer,Toronto,Ontario
+2074,Customer 2074,Small Business,Toronto,Ontario
+2075,Customer 2075,Consumer,Winnipeg,Manitoba
+2076,Customer 2076,Consumer,Kelowna,British Columbia
+2077,Customer 2077,Consumer,Laval,Quebec
+2078,Customer 2078,Corporate,Montreal,Quebec
+2079,Customer 2079,Small Business,Halifax,Nova Scotia
+2080,Customer 2080,Consumer,Montreal,Quebec
+2081,Customer 2081,Corporate,Montreal,Quebec
+2082,Customer 2082,Corporate,London,Ontario
+2083,Customer 2083,Small Business,Toronto,Ontario
+2084,Customer 2084,Corporate,Toronto,Ontario
+2085,Customer 2085,Consumer,Quebec City,Quebec
+2086,Customer 2086,Consumer,Quebec City,Quebec
+2087,Customer 2087,Consumer,Montreal,Quebec
+2088,Customer 2088,Consumer,Vancouver,British Columbia
+2089,Customer 2089,Consumer,Hamilton,Ontario
+2090,Customer 2090,Corporate,Quebec City,Quebec
+2091,Customer 2091,Small Business,Halifax,Nova Scotia
+2092,Customer 2092,Small Business,Kelowna,British Columbia
+2093,Customer 2093,Consumer,Edmonton,Alberta
+2094,Customer 2094,Consumer,Quebec City,Quebec
+2095,Customer 2095,Small Business,Ottawa,Ontario
+2096,Customer 2096,Consumer,Regina,Saskatchewan
+2097,Customer 2097,Consumer,Ottawa,Ontario
+2098,Customer 2098,Consumer,Ottawa,Ontario
+2099,Customer 2099,Small Business,Quebec City,Quebec
+2100,Customer 2100,Corporate,Hamilton,Ontario
+2101,Customer 2101,Corporate,London,Ontario
+2102,Customer 2102,Small Business,Quebec City,Quebec
+2103,Customer 2103,Consumer,Hamilton,Ontario
+2104,Customer 2104,Consumer,Winnipeg,Manitoba
+2105,Customer 2105,Small Business,London,Ontario
+2106,Customer 2106,Corporate,Laval,Quebec
+2107,Customer 2107,Corporate,Victoria,British Columbia
+2108,Customer 2108,Consumer,Laval,Quebec
+2109,Customer 2109,Small Business,Winnipeg,Manitoba
+2110,Customer 2110,Small Business,Edmonton,Alberta
+2111,Customer 2111,Corporate,Kelowna,British Columbia
+2112,Customer 2112,Consumer,Quebec City,Quebec
+2113,Customer 2113,Consumer,Edmonton,Alberta
+2114,Customer 2114,Small Business,Toronto,Ontario
+2115,Customer 2115,Consumer,Winnipeg,Manitoba
+2116,Customer 2116,Consumer,Hamilton,Ontario
+2117,Customer 2117,Consumer,Hamilton,Ontario
+2118,Customer 2118,Consumer,Hamilton,Ontario
+2119,Customer 2119,Consumer,Hamilton,Ontario
+2120,Customer 2120,Corporate,Regina,Saskatchewan
+2121,Customer 2121,Corporate,Ottawa,Ontario
+2122,Customer 2122,Corporate,Ottawa,Ontario
+2123,Customer 2123,Corporate,Calgary,Alberta
+2124,Customer 2124,Consumer,Calgary,Alberta
+2125,Customer 2125,Consumer,Quebec City,Quebec
+2126,Customer 2126,Consumer,Winnipeg,Manitoba
+2127,Customer 2127,Consumer,Toronto,Ontario
+2128,Customer 2128,Consumer,Kelowna,British Columbia
+2129,Customer 2129,Consumer,London,Ontario
+2130,Customer 2130,Small Business,Ottawa,Ontario
+2131,Customer 2131,Consumer,Regina,Saskatchewan
+2132,Customer 2132,Consumer,Saskatoon,Saskatchewan
+2133,Customer 2133,Small Business,Vancouver,British Columbia
+2134,Customer 2134,Consumer,Quebec City,Quebec
+2135,Customer 2135,Consumer,Winnipeg,Manitoba
+2136,Customer 2136,Consumer,Laval,Quebec
+2137,Customer 2137,Small Business,Quebec City,Quebec
+2138,Customer 2138,Consumer,Hamilton,Ontario
+2139,Customer 2139,Consumer,Montreal,Quebec
+2140,Customer 2140,Corporate,London,Ontario
+2141,Customer 2141,Corporate,Hamilton,Ontario
+2142,Customer 2142,Consumer,Toronto,Ontario
+2143,Customer 2143,Consumer,Victoria,British Columbia
+2144,Customer 2144,Consumer,Victoria,British Columbia
+2145,Customer 2145,Corporate,Edmonton,Alberta
+2146,Customer 2146,Corporate,Winnipeg,Manitoba
+2147,Customer 2147,Corporate,Toronto,Ontario
+2148,Customer 2148,Consumer,Regina,Saskatchewan
+2149,Customer 2149,Consumer,Calgary,Alberta
+2150,Customer 2150,Corporate,London,Ontario
+2151,Customer 2151,Small Business,Montreal,Quebec
+2152,Customer 2152,Small Business,Toronto,Ontario
+2153,Customer 2153,Consumer,Toronto,Ontario
+2154,Customer 2154,Small Business,Toronto,Ontario
+2155,Customer 2155,Small Business,Quebec City,Quebec
+2156,Customer 2156,Small Business,Ottawa,Ontario
+2157,Customer 2157,Consumer,Saskatoon,Saskatchewan
+2158,Customer 2158,Consumer,Winnipeg,Manitoba
+2159,Customer 2159,Corporate,Laval,Quebec
+2160,Customer 2160,Corporate,Calgary,Alberta
+2161,Customer 2161,Consumer,Laval,Quebec
+2162,Customer 2162,Consumer,Ottawa,Ontario
+2163,Customer 2163,Small Business,Laval,Quebec
+2164,Customer 2164,Consumer,London,Ontario
+2165,Customer 2165,Consumer,Victoria,British Columbia
+2166,Customer 2166,Consumer,Edmonton,Alberta
+2167,Customer 2167,Corporate,Ottawa,Ontario
+2168,Customer 2168,Consumer,Ottawa,Ontario
+2169,Customer 2169,Corporate,Ottawa,Ontario
+2170,Customer 2170,Consumer,Ottawa,Ontario
+2171,Customer 2171,Consumer,London,Ontario
+2172,Customer 2172,Consumer,Edmonton,Alberta
+2173,Customer 2173,Consumer,Toronto,Ontario
+2174,Customer 2174,Consumer,Edmonton,Alberta
+2175,Customer 2175,Consumer,Hamilton,Ontario
+2176,Customer 2176,Corporate,Quebec City,Quebec
+2177,Customer 2177,Consumer,Vancouver,British Columbia
+2178,Customer 2178,Consumer,Halifax,Nova Scotia
+2179,Customer 2179,Small Business,Quebec City,Quebec
+2180,Customer 2180,Corporate,Hamilton,Ontario
+2181,Customer 2181,Consumer,Victoria,British Columbia
+2182,Customer 2182,Consumer,Ottawa,Ontario
+2183,Customer 2183,Consumer,London,Ontario
+2184,Customer 2184,Corporate,London,Ontario
+2185,Customer 2185,Consumer,London,Ontario
+2186,Customer 2186,Small Business,Montreal,Quebec
+2187,Customer 2187,Consumer,Kelowna,British Columbia
+2188,Customer 2188,Consumer,Halifax,Nova Scotia
+2189,Customer 2189,Consumer,Toronto,Ontario
+2190,Customer 2190,Corporate,Edmonton,Alberta
+2191,Customer 2191,Consumer,Kelowna,British Columbia
+2192,Customer 2192,Consumer,Halifax,Nova Scotia
+2193,Customer 2193,Corporate,Saskatoon,Saskatchewan
+2194,Customer 2194,Corporate,Quebec City,Quebec
+2195,Customer 2195,Consumer,Quebec City,Quebec
+2196,Customer 2196,Corporate,Calgary,Alberta
+2197,Customer 2197,Corporate,Hamilton,Ontario
+2198,Customer 2198,Corporate,Vancouver,British Columbia
+2199,Customer 2199,Consumer,Calgary,Alberta
+2200,Customer 2200,Small Business,Winnipeg,Manitoba
+2201,Customer 2201,Corporate,Toronto,Ontario
+2202,Customer 2202,Consumer,Kelowna,British Columbia
+2203,Customer 2203,Corporate,Laval,Quebec
+2204,Customer 2204,Corporate,Toronto,Ontario
+2205,Customer 2205,Corporate,Calgary,Alberta
+2206,Customer 2206,Consumer,Quebec City,Quebec
+2207,Customer 2207,Consumer,Quebec City,Quebec
+2208,Customer 2208,Corporate,Toronto,Ontario
+2209,Customer 2209,Consumer,Toronto,Ontario
+2210,Customer 2210,Consumer,Edmonton,Alberta
+2211,Customer 2211,Small Business,Calgary,Alberta
+2212,Customer 2212,Consumer,Toronto,Ontario
+2213,Customer 2213,Consumer,Laval,Quebec
+2214,Customer 2214,Consumer,Toronto,Ontario
+2215,Customer 2215,Small Business,Toronto,Ontario
+2216,Customer 2216,Consumer,London,Ontario
+2217,Customer 2217,Small Business,Edmonton,Alberta
+2218,Customer 2218,Consumer,Edmonton,Alberta
+2219,Customer 2219,Corporate,Quebec City,Quebec
+2220,Customer 2220,Consumer,London,Ontario
+2221,Customer 2221,Consumer,Ottawa,Ontario
+2222,Customer 2222,Consumer,Hamilton,Ontario
+2223,Customer 2223,Corporate,Halifax,Nova Scotia
+2224,Customer 2224,Corporate,London,Ontario
+2225,Customer 2225,Consumer,Ottawa,Ontario
+2226,Customer 2226,Consumer,Halifax,Nova Scotia
+2227,Customer 2227,Corporate,Halifax,Nova Scotia
+2228,Customer 2228,Consumer,Quebec City,Quebec
+2229,Customer 2229,Corporate,Toronto,Ontario
+2230,Customer 2230,Consumer,Ottawa,Ontario
+2231,Customer 2231,Consumer,Montreal,Quebec
+2232,Customer 2232,Consumer,London,Ontario
+2233,Customer 2233,Consumer,London,Ontario
+2234,Customer 2234,Consumer,Halifax,Nova Scotia
+2235,Customer 2235,Consumer,London,Ontario
+2236,Customer 2236,Consumer,Ottawa,Ontario
+2237,Customer 2237,Consumer,Hamilton,Ontario
+2238,Customer 2238,Consumer,Hamilton,Ontario
+2239,Customer 2239,Consumer,Ottawa,Ontario
+2240,Customer 2240,Corporate,Halifax,Nova Scotia
+2241,Customer 2241,Consumer,Halifax,Nova Scotia
+2242,Customer 2242,Small Business,Regina,Saskatchewan
+2243,Customer 2243,Consumer,London,Ontario
+2244,Customer 2244,Consumer,Regina,Saskatchewan
+2245,Customer 2245,Corporate,Halifax,Nova Scotia
+2246,Customer 2246,Consumer,Ottawa,Ontario
+2247,Customer 2247,Consumer,Quebec City,Quebec
+2248,Customer 2248,Consumer,Kelowna,British Columbia
+2249,Customer 2249,Consumer,Hamilton,Ontario
+2250,Customer 2250,Small Business,Edmonton,Alberta
+2251,Customer 2251,Small Business,Victoria,British Columbia
+2252,Customer 2252,Consumer,Ottawa,Ontario
+2253,Customer 2253,Consumer,Vancouver,British Columbia
+2254,Customer 2254,Corporate,Quebec City,Quebec
+2255,Customer 2255,Consumer,Hamilton,Ontario
+2256,Customer 2256,Corporate,Quebec City,Quebec
+2257,Customer 2257,Consumer,Hamilton,Ontario
+2258,Customer 2258,Corporate,Montreal,Quebec
+2259,Customer 2259,Consumer,London,Ontario
+2260,Customer 2260,Consumer,London,Ontario
+2261,Customer 2261,Consumer,Hamilton,Ontario
+2262,Customer 2262,Consumer,Ottawa,Ontario
+2263,Customer 2263,Corporate,Edmonton,Alberta
+2264,Customer 2264,Small Business,Winnipeg,Manitoba
+2265,Customer 2265,Small Business,Ottawa,Ontario
+2266,Customer 2266,Consumer,Quebec City,Quebec
+2267,Customer 2267,Consumer,Winnipeg,Manitoba
+2268,Customer 2268,Corporate,London,Ontario
+2269,Customer 2269,Corporate,Victoria,British Columbia
+2270,Customer 2270,Corporate,Kelowna,British Columbia
+2271,Customer 2271,Consumer,Laval,Quebec
+2272,Customer 2272,Corporate,Saskatoon,Saskatchewan
+2273,Customer 2273,Small Business,Hamilton,Ontario
+2274,Customer 2274,Consumer,Toronto,Ontario
+2275,Customer 2275,Small Business,Regina,Saskatchewan
+2276,Customer 2276,Consumer,Quebec City,Quebec
+2277,Customer 2277,Corporate,Ottawa,Ontario
+2278,Customer 2278,Small Business,Halifax,Nova Scotia
+2279,Customer 2279,Small Business,Winnipeg,Manitoba
+2280,Customer 2280,Consumer,Winnipeg,Manitoba
+2281,Customer 2281,Small Business,Toronto,Ontario
+2282,Customer 2282,Consumer,Laval,Quebec
+2283,Customer 2283,Consumer,Calgary,Alberta
+2284,Customer 2284,Consumer,Quebec City,Quebec
+2285,Customer 2285,Consumer,Kelowna,British Columbia
+2286,Customer 2286,Consumer,Calgary,Alberta
+2287,Customer 2287,Consumer,Kelowna,British Columbia
+2288,Customer 2288,Small Business,Ottawa,Ontario
+2289,Customer 2289,Consumer,Vancouver,British Columbia
+2290,Customer 2290,Small Business,Halifax,Nova Scotia
+2291,Customer 2291,Consumer,Montreal,Quebec
+2292,Customer 2292,Consumer,Hamilton,Ontario
+2293,Customer 2293,Small Business,Vancouver,British Columbia
+2294,Customer 2294,Consumer,London,Ontario
+2295,Customer 2295,Consumer,London,Ontario
+2296,Customer 2296,Small Business,Hamilton,Ontario
+2297,Customer 2297,Consumer,Edmonton,Alberta
+2298,Customer 2298,Corporate,Calgary,Alberta
+2299,Customer 2299,Corporate,Calgary,Alberta
+2300,Customer 2300,Corporate,London,Ontario
+2301,Customer 2301,Consumer,Toronto,Ontario
+2302,Customer 2302,Consumer,Halifax,Nova Scotia
+2303,Customer 2303,Consumer,Montreal,Quebec
+2304,Customer 2304,Corporate,Halifax,Nova Scotia
+2305,Customer 2305,Corporate,Montreal,Quebec
+2306,Customer 2306,Corporate,London,Ontario
+2307,Customer 2307,Consumer,Vancouver,British Columbia
+2308,Customer 2308,Small Business,Ottawa,Ontario
+2309,Customer 2309,Consumer,London,Ontario
+2310,Customer 2310,Consumer,Quebec City,Quebec
+2311,Customer 2311,Small Business,Calgary,Alberta
+2312,Customer 2312,Corporate,Laval,Quebec
+2313,Customer 2313,Corporate,Montreal,Quebec
+2314,Customer 2314,Consumer,Montreal,Quebec
+2315,Customer 2315,Corporate,Halifax,Nova Scotia
+2316,Customer 2316,Corporate,Regina,Saskatchewan
+2317,Customer 2317,Consumer,Laval,Quebec
+2318,Customer 2318,Corporate,Laval,Quebec
+2319,Customer 2319,Consumer,London,Ontario
+2320,Customer 2320,Consumer,Edmonton,Alberta
+2321,Customer 2321,Corporate,Vancouver,British Columbia
+2322,Customer 2322,Consumer,London,Ontario
+2323,Customer 2323,Small Business,Ottawa,Ontario
+2324,Customer 2324,Corporate,Hamilton,Ontario
+2325,Customer 2325,Consumer,Montreal,Quebec
+2326,Customer 2326,Consumer,Laval,Quebec
+2327,Customer 2327,Small Business,London,Ontario
+2328,Customer 2328,Consumer,Halifax,Nova Scotia
+2329,Customer 2329,Small Business,London,Ontario
+2330,Customer 2330,Corporate,Ottawa,Ontario
+2331,Customer 2331,Small Business,Edmonton,Alberta
+2332,Customer 2332,Consumer,Vancouver,British Columbia
+2333,Customer 2333,Consumer,Calgary,Alberta
+2334,Customer 2334,Consumer,Winnipeg,Manitoba
+2335,Customer 2335,Corporate,Regina,Saskatchewan
+2336,Customer 2336,Consumer,Kelowna,British Columbia
+2337,Customer 2337,Consumer,Laval,Quebec
+2338,Customer 2338,Consumer,Hamilton,Ontario
+2339,Customer 2339,Small Business,Montreal,Quebec
+2340,Customer 2340,Consumer,London,Ontario
+2341,Customer 2341,Consumer,Hamilton,Ontario
+2342,Customer 2342,Small Business,Vancouver,British Columbia
+2343,Customer 2343,Small Business,Ottawa,Ontario
+2344,Customer 2344,Corporate,Kelowna,British Columbia
+2345,Customer 2345,Consumer,Regina,Saskatchewan
+2346,Customer 2346,Corporate,Laval,Quebec
+2347,Customer 2347,Small Business,Victoria,British Columbia
+2348,Customer 2348,Corporate,Toronto,Ontario
+2349,Customer 2349,Small Business,London,Ontario
+2350,Customer 2350,Consumer,Toronto,Ontario
+2351,Customer 2351,Small Business,Ottawa,Ontario
+2352,Customer 2352,Consumer,Ottawa,Ontario
+2353,Customer 2353,Consumer,Quebec City,Quebec
+2354,Customer 2354,Small Business,Edmonton,Alberta
+2355,Customer 2355,Small Business,Victoria,British Columbia
+2356,Customer 2356,Consumer,Regina,Saskatchewan
+2357,Customer 2357,Consumer,Winnipeg,Manitoba
+2358,Customer 2358,Corporate,Vancouver,British Columbia
+2359,Customer 2359,Corporate,Calgary,Alberta
+2360,Customer 2360,Consumer,Quebec City,Quebec
+2361,Customer 2361,Corporate,London,Ontario
+2362,Customer 2362,Corporate,Calgary,Alberta
+2363,Customer 2363,Corporate,Kelowna,British Columbia
+2364,Customer 2364,Consumer,Halifax,Nova Scotia
+2365,Customer 2365,Consumer,London,Ontario
+2366,Customer 2366,Consumer,Halifax,Nova Scotia
+2367,Customer 2367,Corporate,Ottawa,Ontario
+2368,Customer 2368,Consumer,Hamilton,Ontario
+2369,Customer 2369,Small Business,Kelowna,British Columbia
+2370,Customer 2370,Consumer,London,Ontario
+2371,Customer 2371,Consumer,Montreal,Quebec
+2372,Customer 2372,Consumer,Toronto,Ontario
+2373,Customer 2373,Small Business,Ottawa,Ontario
+2374,Customer 2374,Consumer,Calgary,Alberta
+2375,Customer 2375,Consumer,Edmonton,Alberta
+2376,Customer 2376,Consumer,Hamilton,Ontario
+2377,Customer 2377,Corporate,Toronto,Ontario
+2378,Customer 2378,Corporate,Calgary,Alberta
+2379,Customer 2379,Small Business,Quebec City,Quebec
+2380,Customer 2380,Consumer,Kelowna,British Columbia
+2381,Customer 2381,Small Business,Halifax,Nova Scotia
+2382,Customer 2382,Consumer,Edmonton,Alberta
+2383,Customer 2383,Small Business,Montreal,Quebec
+2384,Customer 2384,Consumer,Calgary,Alberta
+2385,Customer 2385,Corporate,London,Ontario
+2386,Customer 2386,Consumer,Edmonton,Alberta
+2387,Customer 2387,Consumer,London,Ontario
+2388,Customer 2388,Small Business,Laval,Quebec
+2389,Customer 2389,Consumer,Vancouver,British Columbia
+2390,Customer 2390,Small Business,London,Ontario
+2391,Customer 2391,Consumer,Edmonton,Alberta
+2392,Customer 2392,Consumer,Laval,Quebec
+2393,Customer 2393,Corporate,Halifax,Nova Scotia
+2394,Customer 2394,Consumer,Ottawa,Ontario
+2395,Customer 2395,Consumer,Kelowna,British Columbia
+2396,Customer 2396,Consumer,Ottawa,Ontario
+2397,Customer 2397,Corporate,London,Ontario
+2398,Customer 2398,Consumer,Laval,Quebec
+2399,Customer 2399,Consumer,Winnipeg,Manitoba
+2400,Customer 2400,Small Business,Montreal,Quebec
+2401,Customer 2401,Small Business,Laval,Quebec
+2402,Customer 2402,Consumer,Halifax,Nova Scotia
+2403,Customer 2403,Consumer,Hamilton,Ontario
+2404,Customer 2404,Small Business,Calgary,Alberta
+2405,Customer 2405,Corporate,Edmonton,Alberta
+2406,Customer 2406,Corporate,Kelowna,British Columbia
+2407,Customer 2407,Consumer,London,Ontario
+2408,Customer 2408,Consumer,Winnipeg,Manitoba
+2409,Customer 2409,Corporate,Saskatoon,Saskatchewan
+2410,Customer 2410,Corporate,Quebec City,Quebec
+2411,Customer 2411,Corporate,Quebec City,Quebec
+2412,Customer 2412,Consumer,Victoria,British Columbia
+2413,Customer 2413,Consumer,Quebec City,Quebec
+2414,Customer 2414,Corporate,Hamilton,Ontario
+2415,Customer 2415,Corporate,Winnipeg,Manitoba
+2416,Customer 2416,Small Business,Vancouver,British Columbia
+2417,Customer 2417,Consumer,Quebec City,Quebec
+2418,Customer 2418,Corporate,Laval,Quebec
+2419,Customer 2419,Consumer,Vancouver,British Columbia
+2420,Customer 2420,Consumer,London,Ontario
+2421,Customer 2421,Consumer,Vancouver,British Columbia
+2422,Customer 2422,Small Business,Ottawa,Ontario
+2423,Customer 2423,Consumer,Quebec City,Quebec
+2424,Customer 2424,Consumer,Edmonton,Alberta
+2425,Customer 2425,Consumer,Toronto,Ontario
+2426,Customer 2426,Consumer,Vancouver,British Columbia
+2427,Customer 2427,Corporate,Vancouver,British Columbia
+2428,Customer 2428,Small Business,Calgary,Alberta
+2429,Customer 2429,Corporate,Toronto,Ontario
+2430,Customer 2430,Small Business,Calgary,Alberta
+2431,Customer 2431,Consumer,Ottawa,Ontario
+2432,Customer 2432,Consumer,Toronto,Ontario
+2433,Customer 2433,Consumer,Hamilton,Ontario
+2434,Customer 2434,Corporate,Laval,Quebec
+2435,Customer 2435,Consumer,Victoria,British Columbia
+2436,Customer 2436,Consumer,Vancouver,British Columbia
+2437,Customer 2437,Consumer,Halifax,Nova Scotia
+2438,Customer 2438,Small Business,Montreal,Quebec
+2439,Customer 2439,Consumer,London,Ontario
+2440,Customer 2440,Consumer,London,Ontario
+2441,Customer 2441,Consumer,London,Ontario
+2442,Customer 2442,Consumer,Kelowna,British Columbia
+2443,Customer 2443,Consumer,Edmonton,Alberta
+2444,Customer 2444,Consumer,Quebec City,Quebec
+2445,Customer 2445,Small Business,Ottawa,Ontario
+2446,Customer 2446,Small Business,Montreal,Quebec
+2447,Customer 2447,Corporate,Kelowna,British Columbia
+2448,Customer 2448,Small Business,Hamilton,Ontario
+2449,Customer 2449,Consumer,Quebec City,Quebec
+2450,Customer 2450,Consumer,Hamilton,Ontario
+2451,Customer 2451,Small Business,Edmonton,Alberta
+2452,Customer 2452,Small Business,Quebec City,Quebec
+2453,Customer 2453,Corporate,Laval,Quebec
+2454,Customer 2454,Consumer,Laval,Quebec
+2455,Customer 2455,Corporate,Toronto,Ontario
+2456,Customer 2456,Consumer,Calgary,Alberta
+2457,Customer 2457,Small Business,Hamilton,Ontario
+2458,Customer 2458,Consumer,Hamilton,Ontario
+2459,Customer 2459,Corporate,Hamilton,Ontario
+2460,Customer 2460,Consumer,Ottawa,Ontario
+2461,Customer 2461,Consumer,Kelowna,British Columbia
+2462,Customer 2462,Small Business,Ottawa,Ontario
+2463,Customer 2463,Small Business,Victoria,British Columbia
+2464,Customer 2464,Corporate,Calgary,Alberta
+2465,Customer 2465,Small Business,Hamilton,Ontario
+2466,Customer 2466,Consumer,Ottawa,Ontario
+2467,Customer 2467,Corporate,Montreal,Quebec
+2468,Customer 2468,Corporate,Toronto,Ontario
+2469,Customer 2469,Corporate,Toronto,Ontario
+2470,Customer 2470,Consumer,Victoria,British Columbia
+2471,Customer 2471,Consumer,Ottawa,Ontario
+2472,Customer 2472,Consumer,Kelowna,British Columbia
+2473,Customer 2473,Consumer,Hamilton,Ontario
+2474,Customer 2474,Consumer,Edmonton,Alberta
+2475,Customer 2475,Corporate,Halifax,Nova Scotia
+2476,Customer 2476,Small Business,Kelowna,British Columbia
+2477,Customer 2477,Consumer,Hamilton,Ontario
+2478,Customer 2478,Corporate,Vancouver,British Columbia
+2479,Customer 2479,Small Business,Calgary,Alberta
+2480,Customer 2480,Corporate,Hamilton,Ontario
+2481,Customer 2481,Small Business,Laval,Quebec
+2482,Customer 2482,Small Business,Ottawa,Ontario
+2483,Customer 2483,Consumer,Montreal,Quebec
+2484,Customer 2484,Corporate,Montreal,Quebec
+2485,Customer 2485,Small Business,Hamilton,Ontario
+2486,Customer 2486,Corporate,Hamilton,Ontario
+2487,Customer 2487,Consumer,Ottawa,Ontario
+2488,Customer 2488,Corporate,Toronto,Ontario
+2489,Customer 2489,Consumer,Toronto,Ontario
+2490,Customer 2490,Consumer,Hamilton,Ontario
+2491,Customer 2491,Corporate,Saskatoon,Saskatchewan
+2492,Customer 2492,Consumer,Ottawa,Ontario
+2493,Customer 2493,Corporate,Quebec City,Quebec
+2494,Customer 2494,Consumer,Saskatoon,Saskatchewan
+2495,Customer 2495,Consumer,Laval,Quebec
+2496,Customer 2496,Consumer,Winnipeg,Manitoba
+2497,Customer 2497,Consumer,London,Ontario
+2498,Customer 2498,Small Business,Halifax,Nova Scotia
+2499,Customer 2499,Corporate,Laval,Quebec
+2500,Customer 2500,Small Business,Vancouver,British Columbia

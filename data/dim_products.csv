@@ -1,0 +1,25 @@
+product_id,product_name,category,list_price,unit_cost
+1,Bookcase,Furniture,220,166.62
+2,Office Chair,Furniture,310,225.43
+3,Standing Desk,Furniture,640,436.0
+4,Filing Cabinet,Furniture,180,125.82
+5,Conference Table,Furniture,980,730.68
+6,Sofa,Furniture,790,560.18
+7,Laptop,Technology,1250,1005.79
+8,Monitor,Technology,340,261.27
+9,Tablet,Technology,520,394.12
+10,Phone,Technology,780,599.58
+11,Printer,Technology,260,196.29
+12,Keyboard,Technology,90,67.66
+13,Webcam,Technology,95,73.72
+14,Headset,Technology,150,122.72
+15,Binder Set,Office Supplies,18,10.53
+16,Paper Case,Office Supplies,52,29.69
+17,Label Printer,Office Supplies,110,62.71
+18,Pen Pack,Office Supplies,12,6.74
+19,Stapler,Office Supplies,25,14.2
+20,Planner,Office Supplies,30,16.13
+21,Whiteboard,Office Supplies,85,49.3
+22,Desk Organizer,Office Supplies,40,22.91
+23,Toner,Office Supplies,95,54.42
+24,Envelopes,Office Supplies,22,11.99
